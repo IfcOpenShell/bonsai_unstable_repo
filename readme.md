@@ -31,6 +31,15 @@ Or you can search for "blenderbim" in Extensions and Install it.
 ![](img/image.png)
 
 
+3. Each time you start Blender it will check for updates and you will be able to update BlederBIM using "Update" button.
+
+![](img/image-4.png)
+
+Make sure to restart Blender after.
+
+![](img/image-5.png)
+
+
 ### Available daily builds
 
 
@@ -60,7 +69,7 @@ Add\-on
 | [blenderbim\-0\.7\.11\-alpha240808](https://github.com/IfcOpenShell/IfcOpenShell/releases/download/blenderbim-0.7.11-alpha240808/blenderbim_py311-0.7.11-alpha240808-macos-arm64.zip?repository=https://raw.githubusercontent.com/IfcOpenShell/blenderbim_unstable_repo/main/index.json&blender_version_min=4.2.0&platforms=macos-arm64) | BlenderBIM | A native Building Information Model authoring platform using IFC | [link](https://blenderbim.org/) | 4\.2\.0 \- \~ | macos\-arm64 | 98\.4MB |
 
 
-Built 2024\-08\-08, 07:08
+Built 2024\-08\-08, 13:21
 
 
 
