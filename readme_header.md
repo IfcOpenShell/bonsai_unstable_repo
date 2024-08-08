@@ -31,5 +31,14 @@ Or you can search for "blenderbim" in Extensions and Install it.
 ![](img/image.png)
 
 
+3. Each time you start Blender it will check for updates and you will be able to update BlederBIM using "Update" button.
+
+![](img/image-4.png)
+
+Make sure to restart Blender after.
+
+![](img/image-5.png)
+
+
 ### Available daily builds
 
