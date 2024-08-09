@@ -69,7 +69,7 @@ Add\-on
 | [blenderbim\-0\.7\.11\-alpha240809](https://github.com/IfcOpenShell/IfcOpenShell/releases/download/blenderbim-0.7.11-alpha240809/blenderbim_py311-0.7.11-alpha240809-linux-x64.zip?repository=https://raw.githubusercontent.com/IfcOpenShell/blenderbim_unstable_repo/main/index.json&blender_version_min=4.2.0&platforms=linux-x64) | BlenderBIM | A native Building Information Model authoring platform using IFC | [link](https://blenderbim.org/) | 4\.2\.0 \- \~ | linux\-x64 | 105\.4MB |
 
 
-Built 2024\-08\-09, 10:18
+Built 2024\-08\-09, 11:50
 
 
 
