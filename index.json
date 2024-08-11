@@ -58,6 +58,7 @@
         "./wheels/ifcclash-0.7.11a240811-py3-none-any.whl",
         "./wheels/bpypolyskel-0.0.0-py3-none-any.whl",
         "./wheels/pyshacl-0.25.0-py3-none-any.whl",
+        "./wheels/zipp-3.20.0-py3-none-any.whl",
         "./wheels/MarkupSafe-2.1.5-cp311-cp311-macosx_10_9_x86_64.whl",
         "./wheels/aiohttp-3.10.3-cp311-cp311-macosx_10_9_x86_64.whl",
         "./wheels/bsdd-0.7.11a240811-py3-none-any.whl",
@@ -102,7 +103,6 @@
         "./wheels/Mako-1.3.5-py3-none-any.whl",
         "./wheels/greenlet-3.0.1-cp311-cp311-macosx_10_9_x86_64.whl",
         "./wheels/fonttools-4.53.1-cp311-cp311-macosx_10_9_x86_64.whl",
-        "./wheels/zipp-3.19.2-py3-none-any.whl",
         "./wheels/packaging-24.1-py3-none-any.whl",
         "./wheels/wsproto-1.2.0-py3-none-any.whl",
         "./wheels/six-1.16.0-py2.py3-none-any.whl",
@@ -137,8 +137,8 @@
         "./wheels/ifc5d-0.7.11a240811-py3-none-any.whl"
       ],
       "archive_url": "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/blenderbim-0.7.11-alpha240811/blenderbim_py311-0.7.11-alpha240811-macos-x64.zip",
-      "archive_size": 103956875,
-      "archive_hash": "sha256:39a801128dd9c60c361c5e58741c2386d00231d4832524250e4a27913c121fc2"
+      "archive_size": 103957204,
+      "archive_hash": "sha256:983602be7b6c4a39c56717a5c6c2ef459f9b222e5f19a584ccd94c094df86e67"
     },
     {
       "schema_version": "1.0.0",
@@ -199,6 +199,7 @@
         "./wheels/ifcclash-0.7.11a240811-py3-none-any.whl",
         "./wheels/bpypolyskel-0.0.0-py3-none-any.whl",
         "./wheels/pyshacl-0.25.0-py3-none-any.whl",
+        "./wheels/zipp-3.20.0-py3-none-any.whl",
         "./wheels/bsdd-0.7.11a240811-py3-none-any.whl",
         "./wheels/defusedxml-0.7.1-py2.py3-none-any.whl",
         "./wheels/elementpath-4.4.0-py3-none-any.whl",
@@ -237,7 +238,6 @@
         "./wheels/fonttools-4.53.1-cp311-cp311-macosx_11_0_arm64.whl",
         "./wheels/python_engineio-4.9.1-py3-none-any.whl",
         "./wheels/Mako-1.3.5-py3-none-any.whl",
-        "./wheels/zipp-3.19.2-py3-none-any.whl",
         "./wheels/packaging-24.1-py3-none-any.whl",
         "./wheels/wsproto-1.2.0-py3-none-any.whl",
         "./wheels/six-1.16.0-py2.py3-none-any.whl",
@@ -275,8 +275,8 @@
         "./wheels/ifc5d-0.7.11a240811-py3-none-any.whl"
       ],
       "archive_url": "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/blenderbim-0.7.11-alpha240811/blenderbim_py311-0.7.11-alpha240811-macos-arm64.zip",
-      "archive_size": 103216666,
-      "archive_hash": "sha256:922db9c2c1d3a1560d490477a29c85ac765080f31fb4149f6b49b6f90c1063fe"
+      "archive_size": 103216983,
+      "archive_hash": "sha256:26f3718524588918dca7e997ae04a199ddf5ac1463670fb8820ce3c77eb4332c"
     },
     {
       "schema_version": "1.0.0",
@@ -337,6 +337,7 @@
         "./wheels/ifcclash-0.7.11a240811-py3-none-any.whl",
         "./wheels/bpypolyskel-0.0.0-py3-none-any.whl",
         "./wheels/pyshacl-0.25.0-py3-none-any.whl",
+        "./wheels/zipp-3.20.0-py3-none-any.whl",
         "./wheels/ifcopenshell-0.7.11a240811-py311-none-manylinux_2_31_x86_64.whl",
         "./wheels/bsdd-0.7.11a240811-py3-none-any.whl",
         "./wheels/defusedxml-0.7.1-py2.py3-none-any.whl",
@@ -374,7 +375,6 @@
         "./wheels/python_engineio-4.9.1-py3-none-any.whl",
         "./wheels/fonttools-4.53.1-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
         "./wheels/Mako-1.3.5-py3-none-any.whl",
-        "./wheels/zipp-3.19.2-py3-none-any.whl",
         "./wheels/packaging-24.1-py3-none-any.whl",
         "./wheels/wsproto-1.2.0-py3-none-any.whl",
         "./wheels/six-1.16.0-py2.py3-none-any.whl",
@@ -413,8 +413,8 @@
         "./wheels/ifc5d-0.7.11a240811-py3-none-any.whl"
       ],
       "archive_url": "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/blenderbim-0.7.11-alpha240811/blenderbim_py311-0.7.11-alpha240811-linux-x64.zip",
-      "archive_size": 110495560,
-      "archive_hash": "sha256:29d98d2831310188218f1e0e4bb0dce3652e9339d58b778ee47dd0c8d14d6c8d"
+      "archive_size": 110495865,
+      "archive_hash": "sha256:32dbbcd4ace143ba0df82c2ba0b671759fb662090b430b69994da147fe0dffda"
     },
     {
       "schema_version": "1.0.0",
@@ -474,6 +474,7 @@
         "./wheels/ifcclash-0.7.11a240811-py3-none-any.whl",
         "./wheels/bpypolyskel-0.0.0-py3-none-any.whl",
         "./wheels/pyshacl-0.25.0-py3-none-any.whl",
+        "./wheels/zipp-3.20.0-py3-none-any.whl",
         "./wheels/bsdd-0.7.11a240811-py3-none-any.whl",
         "./wheels/defusedxml-0.7.1-py2.py3-none-any.whl",
         "./wheels/elementpath-4.4.0-py3-none-any.whl",
@@ -514,7 +515,6 @@
         "./wheels/ifcpatch-0.7.11a240811-py3-none-any.whl",
         "./wheels/python_engineio-4.9.1-py3-none-any.whl",
         "./wheels/Mako-1.3.5-py3-none-any.whl",
-        "./wheels/zipp-3.19.2-py3-none-any.whl",
         "./wheels/packaging-24.1-py3-none-any.whl",
         "./wheels/wsproto-1.2.0-py3-none-any.whl",
         "./wheels/six-1.16.0-py2.py3-none-any.whl",
@@ -551,8 +551,8 @@
         "./wheels/ifc5d-0.7.11a240811-py3-none-any.whl"
       ],
       "archive_url": "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/blenderbim-0.7.11-alpha240811/blenderbim_py311-0.7.11-alpha240811-windows-x64.zip",
-      "archive_size": 84186103,
-      "archive_hash": "sha256:3e63b91734f722e28ee6ffa0e9e56d115ecf7b3927eabe19d6482eb91e52557d"
+      "archive_size": 84186421,
+      "archive_hash": "sha256:681996a7ab4350b06814a502bc35ecb8990e72bafe055ba719924e2da49f0f61"
     }
   ]
 }
