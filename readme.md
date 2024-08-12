@@ -69,7 +69,7 @@ Add\-on
 | [blenderbim\-0\.7\.11\-alpha240812](https://github.com/IfcOpenShell/IfcOpenShell/releases/download/blenderbim-0.7.11-alpha240812/blenderbim_py311-0.7.11-alpha240812-windows-x64.zip?repository=https://raw.githubusercontent.com/IfcOpenShell/blenderbim_unstable_repo/main/index.json&blender_version_min=4.2.0&platforms=windows-x64) | BlenderBIM | A native Building Information Model authoring platform using IFC | [link](https://blenderbim.org/) | 4\.2\.0 \- \~ | windows\-x64 | 80\.3MB |
 
 
-Built 2024\-08\-12, 18:58
+Built 2024\-08\-12, 19:07
 
 
 
