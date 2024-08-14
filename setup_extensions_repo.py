@@ -20,8 +20,8 @@ INDEX_PATH = PACKAGES_FOLDER / "index.json"
 HTML_PATH = PACKAGES_FOLDER / "index.html"
 MD_PATH = PACKAGES_FOLDER / "readme.md"
 MD_HEADER_PATH = PACKAGES_FOLDER / "readme_header.md"
-INDEX_URL = "https://raw.githubusercontent.com/IfcOpenShell/blenderbim_unstable_repo/main/index.json"
-BASE_URL = "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/blenderbim-{version}/"
+INDEX_URL = "https://raw.githubusercontent.com/IfcOpenShell/bonsai_unstable_repo/main/index.json"
+BASE_URL = "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-{version}/"
 BLENDER_PLATFORMS = ["windows-x64", "macos-x64", "macos-arm64", "linux-x64"]
 # Blender doesn't support separate builds for different Python versions :(
 PYTHON_VERSION = "py311"
@@ -61,7 +61,7 @@ class ExtensionsRepo:
             for i, release in enumerate(repo.get_releases()):
                 if i >= 10:
                     raise Exception("Couldn't find a release with a valid tag in the last 10 releases.")
-                if release.tag_name.startswith("blenderbim-"):
+                if release.tag_name.startswith("bonsai-"):
                     github_tag = release.tag_name
                     break
 
@@ -125,7 +125,7 @@ class ExtensionsRepo:
         with open(HTML_PATH, "r", encoding="utf-8") as f:
             tree = html.parse(f)
 
-        for a in tree.xpath("//a[starts-with(@href, './blenderbim_')]"):
+        for a in tree.xpath("//a[starts-with(@href, './bonsai_')]"):
             href = a.get("href")
             url, url_arguments = href.split("?")
             # Replace relative urls with absolute urls to the releases.
