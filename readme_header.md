@@ -4,7 +4,8 @@ Only supported for Bonsai with Python 3.11 (default Python version in Blender 4.
 
 1. Setup Bonsai Daily Builds Repository.
 
-Drag'n'drop url for your platform from the table below to Blender, accept adding a new repository.
+Drag'n'drop url for your platform from the table below to Blender (urls are in column "ID"), accept adding a new repository.
+If you're on Mac with Apple Silicon (M1, M2, etc) use "macos-arm64" platform, if you're on Mac with Intel Silicon - "macos-x64".
 
 ![](img/image-1.png)
 
