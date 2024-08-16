@@ -27,7 +27,7 @@ To install the Bonsai extension you can either drag'n'drop the same url again an
 
 ![alt text](img/image-3.png)
 
-Or you can search for "bonsai" in Extensions and Install it.
+Or you can search for "bonsai" in Extensions and Install it. Make sure selected extension have "raw.githubusercontent.com" as it's "Repository" (not "extensions.blender.org"), otherwise you'll install regular Bonsai version without daily updates.
 
 ![](img/image.png)
 
