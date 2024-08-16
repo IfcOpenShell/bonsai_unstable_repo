@@ -27,7 +27,7 @@ To install the Bonsai extension you can either drag'n'drop the same url again an
 
 ![alt text](img/image-3.png)
 
-Or you can search for "bonsai" in Extensions and Install it.
+Or you can search for "bonsai" in Extensions and Install it. Make sure selected extension have "raw.githubusercontent.com" as it's "Repository" (not "extensions.blender.org"), otherwise you'll install regular Bonsai version without daily updates.
 
 ![](img/image.png)
 
@@ -65,12 +65,11 @@ Add\-on
 | ID | Name | Description | Website | Blender Versions | Platforms | Size |
 | --- | --- | --- | --- | --- | --- | --- |
 | [bonsai\-0\.7\.11\-alpha240816](https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.7.11-alpha240816/bonsai_py311-0.7.11-alpha240816-macos-arm64.zip?repository=https://raw.githubusercontent.com/IfcOpenShell/bonsai_unstable_repo/main/index.json&blender_version_min=4.2.0&platforms=macos-arm64) | Bonsai | A native Building Information Model authoring platform using IFC | [link](https://bonsaibim.org/) | 4\.2\.0 \- \~ | macos\-arm64 | 98\.4MB |
-| [bonsai\-0\.7\.11\-alpha240816](https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.7.11-alpha240816/bonsai_py311-0.7.11-alpha240816-linux-x64.zip?repository=https://raw.githubusercontent.com/IfcOpenShell/bonsai_unstable_repo/main/index.json&blender_version_min=4.2.0&platforms=linux-x64) | Bonsai | A native Building Information Model authoring platform using IFC | [link](https://bonsaibim.org/) | 4\.2\.0 \- \~ | linux\-x64 | 105\.4MB |
 | [bonsai\-0\.7\.11\-alpha240816](https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.7.11-alpha240816/bonsai_py311-0.7.11-alpha240816-macos-x64.zip?repository=https://raw.githubusercontent.com/IfcOpenShell/bonsai_unstable_repo/main/index.json&blender_version_min=4.2.0&platforms=macos-x64) | Bonsai | A native Building Information Model authoring platform using IFC | [link](https://bonsaibim.org/) | 4\.2\.0 \- \~ | macos\-x64 | 99\.1MB |
 | [bonsai\-0\.7\.11\-alpha240816](https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.7.11-alpha240816/bonsai_py311-0.7.11-alpha240816-windows-x64.zip?repository=https://raw.githubusercontent.com/IfcOpenShell/bonsai_unstable_repo/main/index.json&blender_version_min=4.2.0&platforms=windows-x64) | Bonsai | A native Building Information Model authoring platform using IFC | [link](https://bonsaibim.org/) | 4\.2\.0 \- \~ | windows\-x64 | 80\.3MB |
 
 
-Built 2024\-08\-16, 10:57
+Built 2024\-08\-16, 14:07
 
 
 
