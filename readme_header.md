@@ -32,7 +32,11 @@ Or you can search for "bonsai" in Extensions and Install it. Make sure selected 
 ![](img/image.png)
 
 
-3. Each time you start Blender it will check for updates and you will be able to update BlederBIM using "Update" button.
+3. Each time you start Blender it will check for updates and will show in the bottom toolbar a number of extensions ready to update:
+
+![](img/image-6.png)
+
+Then you can either click on indicator or open "Get Extensions" tab in Preferences and you will be able to update BlederBIM using "Update" button.
 
 ![](img/image-4.png)
 
