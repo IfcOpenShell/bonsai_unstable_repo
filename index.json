@@ -60,7 +60,6 @@
         "./wheels/bpypolyskel-0.0.0-py3-none-any.whl",
         "./wheels/pyshacl-0.25.0-py3-none-any.whl",
         "./wheels/zipp-3.20.0-py3-none-any.whl",
-        "./wheels/importlib_metadata-8.3.0-py3-none-any.whl",
         "./wheels/defusedxml-0.7.1-py2.py3-none-any.whl",
         "./wheels/elementpath-4.4.0-py3-none-any.whl",
         "./wheels/xsdata-24.7-py3-none-any.whl",
@@ -86,6 +85,7 @@
         "./wheels/attrs-24.2.0-py3-none-any.whl",
         "./wheels/isodate-0.6.1-py2.py3-none-any.whl",
         "./wheels/bidict-0.23.1-py3-none-any.whl",
+        "./wheels/importlib_metadata-8.4.0-py3-none-any.whl",
         "./wheels/odfpy-1.4.1-py2.py3-none-any.whl",
         "./wheels/iniconfig-2.0.0-py3-none-any.whl",
         "./wheels/tzfpy-0.15.5-cp311-cp311-macosx_10_12_arm64.whl",
@@ -137,8 +137,8 @@
         "./wheels/alembic-1.13.2-py3-none-any.whl"
       ],
       "archive_url": "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.7.11-alpha240820/bonsai_py311-0.7.11-alpha240820-macos-arm64.zip",
-      "archive_size": 103238736,
-      "archive_hash": "sha256:84d5daa48902e7fe690e6c6e91d567cfac1901cbe89b4dc17b929db4db461b91"
+      "archive_size": 103242041,
+      "archive_hash": "sha256:77caae5f3de4040ea149d3a19afa3863a4dbac33097cb259987d8db973bad330"
     },
     {
       "schema_version": "1.0.0",
@@ -197,7 +197,6 @@
         "./wheels/bpypolyskel-0.0.0-py3-none-any.whl",
         "./wheels/pyshacl-0.25.0-py3-none-any.whl",
         "./wheels/zipp-3.20.0-py3-none-any.whl",
-        "./wheels/importlib_metadata-8.3.0-py3-none-any.whl",
         "./wheels/defusedxml-0.7.1-py2.py3-none-any.whl",
         "./wheels/elementpath-4.4.0-py3-none-any.whl",
         "./wheels/xsdata-24.7-py3-none-any.whl",
@@ -226,6 +225,7 @@
         "./wheels/isodate-0.6.1-py2.py3-none-any.whl",
         "./wheels/bidict-0.23.1-py3-none-any.whl",
         "./wheels/pyradiance-0.4.2-py3-none-win_amd64.whl",
+        "./wheels/importlib_metadata-8.4.0-py3-none-any.whl",
         "./wheels/odfpy-1.4.1-py2.py3-none-any.whl",
         "./wheels/iniconfig-2.0.0-py3-none-any.whl",
         "./wheels/ifctester-0.7.11a240820-py3-none-any.whl",
@@ -275,8 +275,8 @@
         "./wheels/alembic-1.13.2-py3-none-any.whl"
       ],
       "archive_url": "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.7.11-alpha240820/bonsai_py311-0.7.11-alpha240820-windows-x64.zip",
-      "archive_size": 84192995,
-      "archive_hash": "sha256:26b161129110811f036cbe43ca00fe55cec6ce4dec7123f9143e148440c00a05"
+      "archive_size": 84196240,
+      "archive_hash": "sha256:0bd10343589ec6dc8603fcfb02e752c049d0cbb08631fc5395f4399334053f13"
     },
     {
       "schema_version": "1.0.0",
@@ -338,7 +338,6 @@
         "./wheels/ifcopenshell-0.7.11a240820-py311-none-manylinux_2_31_x86_64.whl",
         "./wheels/pyshacl-0.25.0-py3-none-any.whl",
         "./wheels/zipp-3.20.0-py3-none-any.whl",
-        "./wheels/importlib_metadata-8.3.0-py3-none-any.whl",
         "./wheels/defusedxml-0.7.1-py2.py3-none-any.whl",
         "./wheels/elementpath-4.4.0-py3-none-any.whl",
         "./wheels/xsdata-24.7-py3-none-any.whl",
@@ -362,6 +361,7 @@
         "./wheels/attrs-24.2.0-py3-none-any.whl",
         "./wheels/isodate-0.6.1-py2.py3-none-any.whl",
         "./wheels/bidict-0.23.1-py3-none-any.whl",
+        "./wheels/importlib_metadata-8.4.0-py3-none-any.whl",
         "./wheels/odfpy-1.4.1-py2.py3-none-any.whl",
         "./wheels/iniconfig-2.0.0-py3-none-any.whl",
         "./wheels/ifctester-0.7.11a240820-py3-none-any.whl",
@@ -413,8 +413,8 @@
         "./wheels/alembic-1.13.2-py3-none-any.whl"
       ],
       "archive_url": "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.7.11-alpha240820/bonsai_py311-0.7.11-alpha240820-linux-x64.zip",
-      "archive_size": 110499875,
-      "archive_hash": "sha256:320ad433314f17ec06c1ff47bfc6a1cb3db2b025330940b80d17252274858641"
+      "archive_size": 110503136,
+      "archive_hash": "sha256:c4d144781d60c0eea6d5b90d8f869591670116c3eca022e9bd924d0d52f8677f"
     },
     {
       "schema_version": "1.0.0",
@@ -473,7 +473,6 @@
         "./wheels/pyshacl-0.25.0-py3-none-any.whl",
         "./wheels/zipp-3.20.0-py3-none-any.whl",
         "./wheels/MarkupSafe-2.1.5-cp311-cp311-macosx_10_9_x86_64.whl",
-        "./wheels/importlib_metadata-8.3.0-py3-none-any.whl",
         "./wheels/defusedxml-0.7.1-py2.py3-none-any.whl",
         "./wheels/elementpath-4.4.0-py3-none-any.whl",
         "./wheels/xsdata-24.7-py3-none-any.whl",
@@ -502,6 +501,7 @@
         "./wheels/attrs-24.2.0-py3-none-any.whl",
         "./wheels/isodate-0.6.1-py2.py3-none-any.whl",
         "./wheels/bidict-0.23.1-py3-none-any.whl",
+        "./wheels/importlib_metadata-8.4.0-py3-none-any.whl",
         "./wheels/odfpy-1.4.1-py2.py3-none-any.whl",
         "./wheels/iniconfig-2.0.0-py3-none-any.whl",
         "./wheels/shapely-2.0.6-cp311-cp311-macosx_10_9_x86_64.whl",
@@ -551,8 +551,8 @@
         "./wheels/alembic-1.13.2-py3-none-any.whl"
       ],
       "archive_url": "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.7.11-alpha240820/bonsai_py311-0.7.11-alpha240820-macos-x64.zip",
-      "archive_size": 103964544,
-      "archive_hash": "sha256:c8f72214e8d949fd9a94a8036e76ba28f48f21138c3c9ff2562ed5b0bea661b3"
+      "archive_size": 103967815,
+      "archive_hash": "sha256:71728abd4a46484a8391d6af7d0f5c5ace087c6454900722f7bbfa9d3854ed6c"
     }
   ]
 }
