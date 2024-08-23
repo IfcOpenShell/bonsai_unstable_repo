@@ -76,7 +76,7 @@
         "./wheels/webencodings-0.5.1-py2.py3-none-any.whl",
         "./wheels/ordered_set-4.1.0-py3-none-any.whl",
         "./wheels/click-8.1.7-py3-none-any.whl",
-        "./wheels/idna-3.7-py3-none-any.whl",
+        "./wheels/idna-3.8-py3-none-any.whl",
         "./wheels/pluggy-1.5.0-py3-none-any.whl",
         "./wheels/SQLAlchemy-2.0.32-cp311-cp311-win_amd64.whl",
         "./wheels/tzdata-2024.1-py2.py3-none-any.whl",
@@ -138,8 +138,8 @@
         "./wheels/alembic-1.13.2-py3-none-any.whl"
       ],
       "archive_url": "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.7.11-alpha240823/bonsai_py311-0.7.11-alpha240823-windows-x64.zip",
-      "archive_size": 84261024,
-      "archive_hash": "sha256:08735fba48db65fc0ea00dfa5b34fb5004e3d30389a74efd83f46d3e467d5c96"
+      "archive_size": 84261311,
+      "archive_hash": "sha256:15d652e0888a9cfed372e5370c694eca4c413a8cbf124ef38792bb52f78203ee"
     },
     {
       "schema_version": "1.0.0",
@@ -215,7 +215,7 @@
         "./wheels/ordered_set-4.1.0-py3-none-any.whl",
         "./wheels/click-8.1.7-py3-none-any.whl",
         "./wheels/ifcopenshell-0.7.11a240823-py311-none-manylinux_2_31_x86_64.whl",
-        "./wheels/idna-3.7-py3-none-any.whl",
+        "./wheels/idna-3.8-py3-none-any.whl",
         "./wheels/pluggy-1.5.0-py3-none-any.whl",
         "./wheels/tzdata-2024.1-py2.py3-none-any.whl",
         "./wheels/urllib3-2.2.2-py3-none-any.whl",
@@ -277,8 +277,8 @@
         "./wheels/alembic-1.13.2-py3-none-any.whl"
       ],
       "archive_url": "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.7.11-alpha240823/bonsai_py311-0.7.11-alpha240823-linux-x64.zip",
-      "archive_size": 110567900,
-      "archive_hash": "sha256:1a33501d6f521b3743cd4675a404fc8603abfaea8252f2589de431909a49cb1f"
+      "archive_size": 110568154,
+      "archive_hash": "sha256:ec80ce0692ff9696b1cdae30a86d3bc86c2d996752b835f6890cd8f6712f832f"
     },
     {
       "schema_version": "1.0.0",
@@ -355,7 +355,7 @@
         "./wheels/tzfpy-0.15.2-cp311-cp311-macosx_10_9_x86_64.whl",
         "./wheels/ordered_set-4.1.0-py3-none-any.whl",
         "./wheels/click-8.1.7-py3-none-any.whl",
-        "./wheels/idna-3.7-py3-none-any.whl",
+        "./wheels/idna-3.8-py3-none-any.whl",
         "./wheels/pluggy-1.5.0-py3-none-any.whl",
         "./wheels/tzdata-2024.1-py2.py3-none-any.whl",
         "./wheels/urllib3-2.2.2-py3-none-any.whl",
@@ -416,8 +416,8 @@
         "./wheels/alembic-1.13.2-py3-none-any.whl"
       ],
       "archive_url": "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.7.11-alpha240823/bonsai_py311-0.7.11-alpha240823-macos-x64.zip",
-      "archive_size": 104032583,
-      "archive_hash": "sha256:30617a1fd115d137dc1437c4c2f00807beb489e7ab231c3f82340a96859058de"
+      "archive_size": 104032903,
+      "archive_hash": "sha256:21caa59d29f8e537c3a33ec752f7055b62d4e8fe284c172c9671301efde85571"
     },
     {
       "schema_version": "1.0.0",
@@ -491,7 +491,7 @@
         "./wheels/webencodings-0.5.1-py2.py3-none-any.whl",
         "./wheels/ordered_set-4.1.0-py3-none-any.whl",
         "./wheels/click-8.1.7-py3-none-any.whl",
-        "./wheels/idna-3.7-py3-none-any.whl",
+        "./wheels/idna-3.8-py3-none-any.whl",
         "./wheels/pluggy-1.5.0-py3-none-any.whl",
         "./wheels/tzdata-2024.1-py2.py3-none-any.whl",
         "./wheels/urllib3-2.2.2-py3-none-any.whl",
@@ -555,8 +555,8 @@
         "./wheels/alembic-1.13.2-py3-none-any.whl"
       ],
       "archive_url": "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.7.11-alpha240823/bonsai_py311-0.7.11-alpha240823-macos-arm64.zip",
-      "archive_size": 103306738,
-      "archive_hash": "sha256:21c3856774c216fd9569851d9d8d9cbda80cf093f7ee4c62b75f72cb17de4088"
+      "archive_size": 103307085,
+      "archive_hash": "sha256:249233d07b6e34df1334f8e580d08c8d1e6100be86baafa66596bbf2ea34ab78"
     }
   ]
 }
