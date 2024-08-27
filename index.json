@@ -138,8 +138,8 @@
         "./wheels/alembic-1.13.2-py3-none-any.whl"
       ],
       "archive_url": "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.7.11-alpha240827/bonsai_py311-0.7.11-alpha240827-macos-arm64.zip",
-      "archive_size": 106490081,
-      "archive_hash": "sha256:426c8052daf9ddcdd45aedc10daacdcf5d0db2548b177af563c1b2267c6b01c3"
+      "archive_size": 106490148,
+      "archive_hash": "sha256:bf9ccd86bf664398d310bfe28b0c338286570a87f888a1de1e294b1ea23b8fdd"
     },
     {
       "schema_version": "1.0.0",
@@ -277,8 +277,8 @@
         "./wheels/alembic-1.13.2-py3-none-any.whl"
       ],
       "archive_url": "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.7.11-alpha240827/bonsai_py311-0.7.11-alpha240827-macos-x64.zip",
-      "archive_size": 107228009,
-      "archive_hash": "sha256:f05baf9610e92ce15bbbc0b6cdf527555958fb70ace8288deab856639182ba15"
+      "archive_size": 107228086,
+      "archive_hash": "sha256:006b7a8664309aaa225fd51a04dcf48a68bb320bef6c7d377e8d56710afef801"
     },
     {
       "schema_version": "1.0.0",
@@ -416,8 +416,8 @@
         "./wheels/alembic-1.13.2-py3-none-any.whl"
       ],
       "archive_url": "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.7.11-alpha240827/bonsai_py311-0.7.11-alpha240827-windows-x64.zip",
-      "archive_size": 87341629,
-      "archive_hash": "sha256:7ca178eaf9fee4b2e83dc744967fe73391dc9625ed455784a5b2136c1824f062"
+      "archive_size": 87341725,
+      "archive_hash": "sha256:348dc05b062498f66407acf2fc3ddf155a438e2036eccc8b5d1b7cce569d4ca9"
     },
     {
       "schema_version": "1.0.0",
@@ -555,8 +555,8 @@
         "./wheels/alembic-1.13.2-py3-none-any.whl"
       ],
       "archive_url": "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.7.11-alpha240827/bonsai_py311-0.7.11-alpha240827-linux-x64.zip",
-      "archive_size": 110937085,
-      "archive_hash": "sha256:596764a5e1313c72833e7a6e9a73303c4198948aeed88172054731dd55360161"
+      "archive_size": 110937109,
+      "archive_hash": "sha256:84f859d8058efbf1521d65fbb9ad6c3af9accf2fd8b3abb2213a56c7861f7f5f"
     }
   ]
 }
