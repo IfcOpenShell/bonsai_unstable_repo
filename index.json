@@ -138,8 +138,8 @@
         "./wheels/alembic-1.13.2-py3-none-any.whl"
       ],
       "archive_url": "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.8.1-alpha240901/bonsai_py311-0.8.1-alpha240901-windows-x64.zip",
-      "archive_size": 87106155,
-      "archive_hash": "sha256:a7a763b0189a844fc22a20a1807654c71ed4ae37a9df99d805298d2d0396e6a6"
+      "archive_size": 87106179,
+      "archive_hash": "sha256:c4e944758bfde488147b4c2b92be82826fa2845c11ec63890071e1a70cc1acc8"
     },
     {
       "schema_version": "1.0.0",
@@ -277,8 +277,8 @@
         "./wheels/alembic-1.13.2-py3-none-any.whl"
       ],
       "archive_url": "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.8.1-alpha240901/bonsai_py311-0.8.1-alpha240901-macos-x64.zip",
-      "archive_size": 108283796,
-      "archive_hash": "sha256:09b7522ebd84fd6e32dacb4fd670bda3cb4154828e2be803490e2c032b39d5d0"
+      "archive_size": 108283868,
+      "archive_hash": "sha256:2e3040dd65bc81973a6eada3abadf6643cd56e9d07678663353922a03e406d21"
     },
     {
       "schema_version": "1.0.0",
@@ -416,8 +416,8 @@
         "./wheels/alembic-1.13.2-py3-none-any.whl"
       ],
       "archive_url": "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.8.1-alpha240901/bonsai_py311-0.8.1-alpha240901-linux-x64.zip",
-      "archive_size": 112976160,
-      "archive_hash": "sha256:a48e24bbed0dcb9fba9f829a347818f20c201050bcd6ca46d7c0f320fe9d0ae5"
+      "archive_size": 112976201,
+      "archive_hash": "sha256:0d3c99de3b3a16cb0f85a589206a99ae009133ccb9ee68e39fe5f9e63f9d630c"
     },
     {
       "schema_version": "1.0.0",
@@ -555,8 +555,8 @@
         "./wheels/alembic-1.13.2-py3-none-any.whl"
       ],
       "archive_url": "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.8.1-alpha240901/bonsai_py311-0.8.1-alpha240901-macos-arm64.zip",
-      "archive_size": 108165781,
-      "archive_hash": "sha256:c61833b60dd28b33398697df6101a8543d790cac68fa416e4b66ed725ec864bd"
+      "archive_size": 108165797,
+      "archive_hash": "sha256:c06f63f5164f56850e00bb570c9b7f5c163e95938fbf74f914172a3fe2ad4610"
     }
   ]
 }
