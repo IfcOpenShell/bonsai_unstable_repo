@@ -139,7 +139,7 @@
       ],
       "archive_url": "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.8.1-alpha240906/bonsai_py311-0.8.1-alpha240906-macos-arm64.zip",
       "archive_size": 108211151,
-      "archive_hash": "sha256:ce2adbe35ee954aca385c7ec47f11862d5737655b3ff2568d4453261fe1dc12b"
+      "archive_hash": "sha256:6bae90caf18c9abad74d0b9d9798839a2f829655a29872ceab0f8abf75147acd"
     },
     {
       "schema_version": "1.0.0",
@@ -277,8 +277,8 @@
         "./wheels/pyshacl-0.25.0-py3-none-any.whl"
       ],
       "archive_url": "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.8.1-alpha240906/bonsai_py311-0.8.1-alpha240906-windows-x64.zip",
-      "archive_size": 87151989,
-      "archive_hash": "sha256:ee07b31da22f3f84a5624d312a1f68dcdfd7e7ac1d16fa52e4f544b342dfbf4d"
+      "archive_size": 87152013,
+      "archive_hash": "sha256:22d9b018cb54b68dd089d6865b582ec3944f18a8a8bf993842db63ba26a271af"
     },
     {
       "schema_version": "1.0.0",
@@ -416,8 +416,8 @@
         "./wheels/pyshacl-0.25.0-py3-none-any.whl"
       ],
       "archive_url": "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.8.1-alpha240906/bonsai_py311-0.8.1-alpha240906-linux-x64.zip",
-      "archive_size": 113168299,
-      "archive_hash": "sha256:582f80f08f9dd7198dd39bd17c3e73bc2c5c257301bce71c08904652af8d1ae4"
+      "archive_size": 113168318,
+      "archive_hash": "sha256:5017865834b31f6d6c3e2e202c6347b6ef40c3c33668ab34cbd20ece73e4740c"
     },
     {
       "schema_version": "1.0.0",
@@ -555,8 +555,8 @@
         "./wheels/pyshacl-0.25.0-py3-none-any.whl"
       ],
       "archive_url": "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.8.1-alpha240906/bonsai_py311-0.8.1-alpha240906-macos-x64.zip",
-      "archive_size": 108328864,
-      "archive_hash": "sha256:6109619330528c2e73a19632969499b9e5a792d977b9ca6b86f23bf9f0e8c372"
+      "archive_size": 108328867,
+      "archive_hash": "sha256:b7dfb648f45d49c8f6d6bec73853e019e057ccd115be71a77ad2b379d70e6f62"
     }
   ]
 }
