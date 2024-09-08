@@ -139,7 +139,7 @@
       ],
       "archive_url": "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.8.1-alpha240908/bonsai_py311-0.8.1-alpha240908-linux-x64.zip",
       "archive_size": 113176882,
-      "archive_hash": "sha256:58771ea834beab21e9ee2fb752e631caf9e8af333105dcb8851187ebbb386207"
+      "archive_hash": "sha256:b8f546653cbb3f8e519dda6fcf084aceb2811a0c63efbe2d2116c28e5411b716"
     },
     {
       "schema_version": "1.0.0",
@@ -277,8 +277,8 @@
         "./wheels/pyshacl-0.25.0-py3-none-any.whl"
       ],
       "archive_url": "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.8.1-alpha240908/bonsai_py311-0.8.1-alpha240908-windows-x64.zip",
-      "archive_size": 87160405,
-      "archive_hash": "sha256:98d7e27bcf51c45271ff7c2a0e7a8ba63894632fa5fed3a2e24843e957080c46"
+      "archive_size": 87160430,
+      "archive_hash": "sha256:d7a774fc5201f693103c60b7a71302d8a9bc03cc9e1ba366acc94c9debda4608"
     },
     {
       "schema_version": "1.0.0",
@@ -416,8 +416,8 @@
         "./wheels/pyradiance-0.5.1-py3-none-macosx_11_0_arm64.whl"
       ],
       "archive_url": "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.8.1-alpha240908/bonsai_py311-0.8.1-alpha240908-macos-arm64.zip",
-      "archive_size": 108219616,
-      "archive_hash": "sha256:8a14c78324069f7f499929020a7af88047b5695594d7e677983164c4310fc396"
+      "archive_size": 108219647,
+      "archive_hash": "sha256:92cac82a672217e85be940d7262edd0e85c25c630d8f7b8ed8ddd0f913266605"
     },
     {
       "schema_version": "1.0.0",
@@ -555,8 +555,8 @@
         "./wheels/pyshacl-0.25.0-py3-none-any.whl"
       ],
       "archive_url": "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.8.1-alpha240908/bonsai_py311-0.8.1-alpha240908-macos-x64.zip",
-      "archive_size": 108337454,
-      "archive_hash": "sha256:57917b1a94962ffb5a7da239d4974bfa4b3e3133d6cb5a69cd4cca992a457c73"
+      "archive_size": 108337475,
+      "archive_hash": "sha256:fe3105a5377d5575ab96675ce76c41dac84fcb595e85a229ca4a8084e74a6cec"
     }
   ]
 }
