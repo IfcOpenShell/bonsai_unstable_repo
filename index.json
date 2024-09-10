@@ -138,8 +138,8 @@
         "./wheels/pyshacl-0.25.0-py3-none-any.whl"
       ],
       "archive_url": "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.8.1-alpha240910/bonsai_py311-0.8.1-alpha240910-windows-x64.zip",
-      "archive_size": 87173465,
-      "archive_hash": "sha256:a54650df0f1acf60c93cc1b465c253559b78df45ec26d90a37b96db5d59506f0"
+      "archive_size": 87173500,
+      "archive_hash": "sha256:588926ca961f7b90f143013fd005e7b9b66b245f11e937c43e39d6056ba232b6"
     },
     {
       "schema_version": "1.0.0",
@@ -278,7 +278,7 @@
       ],
       "archive_url": "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.8.1-alpha240910/bonsai_py311-0.8.1-alpha240910-macos-arm64.zip",
       "archive_size": 108230934,
-      "archive_hash": "sha256:caced5385f3e33f2ab32e36231f290e665075b6d487436c32585c5791b92597b"
+      "archive_hash": "sha256:ceec7e1ff0e530accf6cf92c9ad16e2e9e07a525c65957658f40d39bcff06974"
     },
     {
       "schema_version": "1.0.0",
@@ -416,8 +416,8 @@
         "./wheels/pyshacl-0.25.0-py3-none-any.whl"
       ],
       "archive_url": "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.8.1-alpha240910/bonsai_py311-0.8.1-alpha240910-macos-x64.zip",
-      "archive_size": 108348612,
-      "archive_hash": "sha256:32d528db0ab6e06dca02f9b5e3392d1c5e5a2e1f5d44db15b1cfc4f373b43538"
+      "archive_size": 108348638,
+      "archive_hash": "sha256:6d33cf6a5a5be942865f5d563dacde358315f84b848b9122e79fdf8efab9be6d"
     },
     {
       "schema_version": "1.0.0",
@@ -555,8 +555,8 @@
         "./wheels/pyshacl-0.25.0-py3-none-any.whl"
       ],
       "archive_url": "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.8.1-alpha240910/bonsai_py311-0.8.1-alpha240910-linux-x64.zip",
-      "archive_size": 113167848,
-      "archive_hash": "sha256:121c7aad4b39b0b3eca467157502d42c1197b150013bf31e4018571e8b7ce64f"
+      "archive_size": 113167843,
+      "archive_hash": "sha256:f31a4fb8aaedee3681f1ae4e23d397f54724187b5b06f0f44c0c9829f9bc5be8"
     }
   ]
 }
