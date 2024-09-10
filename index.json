@@ -555,8 +555,8 @@
         "./wheels/pyshacl-0.25.0-py3-none-any.whl"
       ],
       "archive_url": "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.8.1-alpha240910/bonsai_py311-0.8.1-alpha240910-linux-x64.zip",
-      "archive_size": 113167843,
-      "archive_hash": "sha256:f31a4fb8aaedee3681f1ae4e23d397f54724187b5b06f0f44c0c9829f9bc5be8"
+      "archive_size": 113167876,
+      "archive_hash": "sha256:753055b1cd6338720d218ce79b6f325a471f2d964075e26007a4ab362d746c44"
     }
   ]
 }
