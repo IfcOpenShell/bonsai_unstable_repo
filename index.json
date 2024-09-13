@@ -138,8 +138,8 @@
         "./wheels/pyshacl-0.25.0-py3-none-any.whl"
       ],
       "archive_url": "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.8.1-alpha240913/bonsai_py311-0.8.1-alpha240913-linux-x64.zip",
-      "archive_size": 113457160,
-      "archive_hash": "sha256:6eb0bde90bf3095fabf23b0a8036d4daa78f937e48dc73b193d16cb62ef200e0"
+      "archive_size": 113457390,
+      "archive_hash": "sha256:f383c76b2b1ba95cfc408d12806dc8577428e4b9153f09a5b4c104cc824c0d86"
     },
     {
       "schema_version": "1.0.0",
@@ -277,8 +277,8 @@
         "./wheels/pyshacl-0.25.0-py3-none-any.whl"
       ],
       "archive_url": "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.8.1-alpha240913/bonsai_py311-0.8.1-alpha240913-macos-x64.zip",
-      "archive_size": 108579178,
-      "archive_hash": "sha256:f0fa829fbf62798d607dc5738b744efce4568e64bdeb2a26474aa694209fef1e"
+      "archive_size": 108579386,
+      "archive_hash": "sha256:215fb33fe28ecd1711b3354ad4c97fe92e18a138609980296f5509e11e6c871d"
     },
     {
       "schema_version": "1.0.0",
@@ -416,8 +416,8 @@
         "./wheels/pyradiance-0.5.1-py3-none-macosx_11_0_arm64.whl"
       ],
       "archive_url": "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.8.1-alpha240913/bonsai_py311-0.8.1-alpha240913-macos-arm64.zip",
-      "archive_size": 108427708,
-      "archive_hash": "sha256:8f338158dde0d95ca90f91a3e2f1ff5222caac7790a616a27d5926d626bd197a"
+      "archive_size": 108427941,
+      "archive_hash": "sha256:a6466f46176b24a8cd16b3c42269ee0ff114abf8e76773843ff198dade04fac7"
     },
     {
       "schema_version": "1.0.0",
@@ -555,8 +555,8 @@
         "./wheels/pyshacl-0.25.0-py3-none-any.whl"
       ],
       "archive_url": "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.8.1-alpha240913/bonsai_py311-0.8.1-alpha240913-windows-x64.zip",
-      "archive_size": 87357615,
-      "archive_hash": "sha256:56c801182a372bef90a4f6ab22e1440ce75e626701d55e01728932f843b9e058"
+      "archive_size": 87357822,
+      "archive_hash": "sha256:eac244fa6697b72ec2b0ba3182cf59530e4153b12b7b7cd41703b9cfedd42a40"
     }
   ]
 }
