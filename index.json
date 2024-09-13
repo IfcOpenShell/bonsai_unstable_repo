@@ -98,10 +98,10 @@
         "./wheels/ifccsv-0.8.1a240913-py3-none-any.whl",
         "./wheels/ifcpatch-0.8.1a240913-py3-none-any.whl",
         "./wheels/alembic-1.13.2-py3-none-any.whl",
-        "./wheels/zipp-3.20.1-py3-none-any.whl",
         "./wheels/bsdd-0.8.1a240913-py3-none-any.whl",
         "./wheels/wcwidth-0.2.13-py2.py3-none-any.whl",
         "./wheels/ifc5d-0.8.1a240913-py3-none-any.whl",
+        "./wheels/zipp-3.20.2-py3-none-any.whl",
         "./wheels/bcf_client-0.8.1a240913-py3-none-any.whl",
         "./wheels/pytz-2024.2-py2.py3-none-any.whl",
         "./wheels/colorama-0.4.6-py2.py3-none-any.whl",
@@ -138,8 +138,8 @@
         "./wheels/pyshacl-0.25.0-py3-none-any.whl"
       ],
       "archive_url": "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.8.1-alpha240913/bonsai_py311-0.8.1-alpha240913-linux-x64.zip",
-      "archive_size": 113453837,
-      "archive_hash": "sha256:d3ef18730dc0755f5557327120b32b95ae232044293100b864593d14791cf1af"
+      "archive_size": 113457160,
+      "archive_hash": "sha256:6eb0bde90bf3095fabf23b0a8036d4daa78f937e48dc73b193d16cb62ef200e0"
     },
     {
       "schema_version": "1.0.0",
@@ -243,10 +243,10 @@
         "./wheels/ifcpatch-0.8.1a240913-py3-none-any.whl",
         "./wheels/alembic-1.13.2-py3-none-any.whl",
         "./wheels/SQLAlchemy-2.0.34-cp311-cp311-macosx_10_9_x86_64.whl",
-        "./wheels/zipp-3.20.1-py3-none-any.whl",
         "./wheels/bsdd-0.8.1a240913-py3-none-any.whl",
         "./wheels/wcwidth-0.2.13-py2.py3-none-any.whl",
         "./wheels/ifc5d-0.8.1a240913-py3-none-any.whl",
+        "./wheels/zipp-3.20.2-py3-none-any.whl",
         "./wheels/MarkupSafe-2.1.5-cp311-cp311-macosx_10_9_x86_64.whl",
         "./wheels/bcf_client-0.8.1a240913-py3-none-any.whl",
         "./wheels/pytz-2024.2-py2.py3-none-any.whl",
@@ -277,8 +277,8 @@
         "./wheels/pyshacl-0.25.0-py3-none-any.whl"
       ],
       "archive_url": "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.8.1-alpha240913/bonsai_py311-0.8.1-alpha240913-macos-x64.zip",
-      "archive_size": 108575673,
-      "archive_hash": "sha256:3a1d117318bb9dd540fbb744ad3a10cac4b7f2d664c2f672feff05f2e270d0a0"
+      "archive_size": 108579178,
+      "archive_hash": "sha256:f0fa829fbf62798d607dc5738b744efce4568e64bdeb2a26474aa694209fef1e"
     },
     {
       "schema_version": "1.0.0",
@@ -379,10 +379,10 @@
         "./wheels/aiohttp-3.10.5-cp311-cp311-macosx_11_0_arm64.whl",
         "./wheels/ifcpatch-0.8.1a240913-py3-none-any.whl",
         "./wheels/alembic-1.13.2-py3-none-any.whl",
-        "./wheels/zipp-3.20.1-py3-none-any.whl",
         "./wheels/bsdd-0.8.1a240913-py3-none-any.whl",
         "./wheels/wcwidth-0.2.13-py2.py3-none-any.whl",
         "./wheels/ifc5d-0.8.1a240913-py3-none-any.whl",
+        "./wheels/zipp-3.20.2-py3-none-any.whl",
         "./wheels/bcf_client-0.8.1a240913-py3-none-any.whl",
         "./wheels/pytz-2024.2-py2.py3-none-any.whl",
         "./wheels/colorama-0.4.6-py2.py3-none-any.whl",
@@ -416,8 +416,8 @@
         "./wheels/pyradiance-0.5.1-py3-none-macosx_11_0_arm64.whl"
       ],
       "archive_url": "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.8.1-alpha240913/bonsai_py311-0.8.1-alpha240913-macos-arm64.zip",
-      "archive_size": 108424357,
-      "archive_hash": "sha256:8fd717b2bfcce1cecf390be8c76f3f78f2f5c16bbb7631db256a27fb8fb721df"
+      "archive_size": 108427708,
+      "archive_hash": "sha256:8f338158dde0d95ca90f91a3e2f1ff5222caac7790a616a27d5926d626bd197a"
     },
     {
       "schema_version": "1.0.0",
@@ -518,10 +518,10 @@
         "./wheels/ifcpatch-0.8.1a240913-py3-none-any.whl",
         "./wheels/alembic-1.13.2-py3-none-any.whl",
         "./wheels/fonttools-4.53.1-cp311-cp311-win_amd64.whl",
-        "./wheels/zipp-3.20.1-py3-none-any.whl",
         "./wheels/bsdd-0.8.1a240913-py3-none-any.whl",
         "./wheels/wcwidth-0.2.13-py2.py3-none-any.whl",
         "./wheels/ifc5d-0.8.1a240913-py3-none-any.whl",
+        "./wheels/zipp-3.20.2-py3-none-any.whl",
         "./wheels/bcf_client-0.8.1a240913-py3-none-any.whl",
         "./wheels/pytz-2024.2-py2.py3-none-any.whl",
         "./wheels/colorama-0.4.6-py2.py3-none-any.whl",
@@ -555,8 +555,8 @@
         "./wheels/pyshacl-0.25.0-py3-none-any.whl"
       ],
       "archive_url": "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.8.1-alpha240913/bonsai_py311-0.8.1-alpha240913-windows-x64.zip",
-      "archive_size": 87354209,
-      "archive_hash": "sha256:42da25ea13d4938d39db8b9194bcc25ac47d55a9d35c848ced3942f6bbd36e75"
+      "archive_size": 87357615,
+      "archive_hash": "sha256:56c801182a372bef90a4f6ab22e1440ce75e626701d55e01728932f843b9e058"
     }
   ]
 }
