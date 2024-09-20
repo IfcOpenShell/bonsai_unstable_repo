@@ -138,8 +138,8 @@
         "./wheels/greenlet-3.1.0-cp311-cp311-macosx_10_9_x86_64.whl"
       ],
       "archive_url": "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.8.1-alpha240920/bonsai_py311-0.8.1-alpha240920-macos-x64.zip",
-      "archive_size": 108396236,
-      "archive_hash": "sha256:fd3b95e479062dea00484710a11250b8535f9a4fd51a55d18a1446eb2e1d8b60"
+      "archive_size": 108396296,
+      "archive_hash": "sha256:fd3c16d10c9cebd66246ac32f553b12f5043ec2114538ddb46f405dfc70e4187"
     },
     {
       "schema_version": "1.0.0",
@@ -277,8 +277,8 @@
         "./wheels/typing_extensions-4.12.2-py3-none-any.whl"
       ],
       "archive_url": "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.8.1-alpha240920/bonsai_py311-0.8.1-alpha240920-macos-arm64.zip",
-      "archive_size": 108230709,
-      "archive_hash": "sha256:0b68e0e2e92ba655c7b17de83471cfa4767994d4b0f9999186c8a1ee0231d8f7"
+      "archive_size": 108230773,
+      "archive_hash": "sha256:42ae997a5219c09e318177fc921e41ba1e0be44519cee03a14686bdcbbbb8ee3"
     },
     {
       "schema_version": "1.0.0",
@@ -416,8 +416,8 @@
         "./wheels/fonttools-4.53.1-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl"
       ],
       "archive_url": "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.8.1-alpha240920/bonsai_py311-0.8.1-alpha240920-linux-x64.zip",
-      "archive_size": 113218144,
-      "archive_hash": "sha256:abf8e1f8a3b94bf8b75ece4b9e717a6d542809192479eff2d171c65377ecee28"
+      "archive_size": 113218210,
+      "archive_hash": "sha256:4cb6387fc33b4264d14162c4927ce0576e707778af5e47e6807c6abdae0eed87"
     },
     {
       "schema_version": "1.0.0",
@@ -555,8 +555,8 @@
         "./wheels/typing_extensions-4.12.2-py3-none-any.whl"
       ],
       "archive_url": "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.8.1-alpha240920/bonsai_py311-0.8.1-alpha240920-windows-x64.zip",
-      "archive_size": 87215088,
-      "archive_hash": "sha256:e4e550916a021927919397bc4f4d8562007e89d84af10294bb86c14eaa7f4567"
+      "archive_size": 87215117,
+      "archive_hash": "sha256:221a9ac03f6e79a28edc051bc201dd5c7dbd8953da379bdf55b6339913137645"
     }
   ]
 }
