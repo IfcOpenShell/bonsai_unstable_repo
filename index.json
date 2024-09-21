@@ -133,13 +133,13 @@
         "./wheels/webencodings-0.5.1-py2.py3-none-any.whl",
         "./wheels/wsproto-1.2.0-py3-none-any.whl",
         "./wheels/xmlschema-3.4.2-py3-none-any.whl",
-        "./wheels/xsdata-24.7-py3-none-any.whl",
+        "./wheels/xsdata-24.9-py3-none-any.whl",
         "./wheels/yarl-1.11.1-cp311-cp311-win_amd64.whl",
         "./wheels/zipp-3.20.2-py3-none-any.whl"
       ],
       "archive_url": "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.8.1-alpha240921/bonsai_py311-0.8.1-alpha240921-windows-x64.zip",
-      "archive_size": 87222146,
-      "archive_hash": "sha256:1d432821a808c9333e426d16f7601ce91c1ecd4cd38116aa0f184630de3e5388"
+      "archive_size": 87222145,
+      "archive_hash": "sha256:8e7869c6bc77156c8b7718180ed75fa3919505b7b1e445712b88da1a6053c791"
     },
     {
       "schema_version": "1.0.0",
@@ -272,13 +272,13 @@
         "./wheels/webencodings-0.5.1-py2.py3-none-any.whl",
         "./wheels/wsproto-1.2.0-py3-none-any.whl",
         "./wheels/xmlschema-3.4.2-py3-none-any.whl",
-        "./wheels/xsdata-24.7-py3-none-any.whl",
+        "./wheels/xsdata-24.9-py3-none-any.whl",
         "./wheels/yarl-1.11.1-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
         "./wheels/zipp-3.20.2-py3-none-any.whl"
       ],
       "archive_url": "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.8.1-alpha240921/bonsai_py311-0.8.1-alpha240921-linux-x64.zip",
-      "archive_size": 113246012,
-      "archive_hash": "sha256:6fd080dadc6af162075e8d8074f5702c7b7ea44ba5ca047299f503bcc1d6ba3e"
+      "archive_size": 113246037,
+      "archive_hash": "sha256:7ae812dbb251b78cd1c1d198d05811a5f5385fc9fabff6d1811463d022b177a1"
     },
     {
       "schema_version": "1.0.0",
@@ -411,13 +411,13 @@
         "./wheels/webencodings-0.5.1-py2.py3-none-any.whl",
         "./wheels/wsproto-1.2.0-py3-none-any.whl",
         "./wheels/xmlschema-3.4.2-py3-none-any.whl",
-        "./wheels/xsdata-24.7-py3-none-any.whl",
+        "./wheels/xsdata-24.9-py3-none-any.whl",
         "./wheels/yarl-1.11.1-cp311-cp311-macosx_10_9_x86_64.whl",
         "./wheels/zipp-3.20.2-py3-none-any.whl"
       ],
       "archive_url": "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.8.1-alpha240921/bonsai_py311-0.8.1-alpha240921-macos-x64.zip",
-      "archive_size": 108444251,
-      "archive_hash": "sha256:08f15ea9dcbcb52a35ebdb89c8bc4204cf4c83547cf63b853f5c0400ae7466b3"
+      "archive_size": 108444257,
+      "archive_hash": "sha256:8e082ad97cdb67b00c3ae722b5d2a18c31c42c656750a572be5f2662ee47d130"
     },
     {
       "schema_version": "1.0.0",
@@ -550,13 +550,13 @@
         "./wheels/webencodings-0.5.1-py2.py3-none-any.whl",
         "./wheels/wsproto-1.2.0-py3-none-any.whl",
         "./wheels/xmlschema-3.4.2-py3-none-any.whl",
-        "./wheels/xsdata-24.7-py3-none-any.whl",
+        "./wheels/xsdata-24.9-py3-none-any.whl",
         "./wheels/yarl-1.11.1-cp311-cp311-macosx_11_0_arm64.whl",
         "./wheels/zipp-3.20.2-py3-none-any.whl"
       ],
       "archive_url": "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.8.1-alpha240921/bonsai_py311-0.8.1-alpha240921-macos-arm64.zip",
-      "archive_size": 108271128,
-      "archive_hash": "sha256:386f30ec4371a4e92a25870cf0f376408b3628530e6061bac9f3b357d3ceebf6"
+      "archive_size": 108271135,
+      "archive_hash": "sha256:7c22e907a8e0ebddff4c599e84359d4840384974b19d8991b27efee673785b66"
     }
   ]
 }
