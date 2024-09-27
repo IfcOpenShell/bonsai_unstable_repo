@@ -138,8 +138,8 @@
         "./wheels/zipp-3.20.2-py3-none-any.whl"
       ],
       "archive_url": "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.8.1-alpha240927/bonsai_py311-0.8.1-alpha240927-macos-x64.zip",
-      "archive_size": 108528172,
-      "archive_hash": "sha256:dfe714a81a7d300bc09a55b7a07bc23c1e0addfa186f4e40c1ffd99a9fc88dac"
+      "archive_size": 108529030,
+      "archive_hash": "sha256:1424fbc0c26d4953ccc41d7199a422d50fcdfc9f093f0b2406db229facaa1ec2"
     },
     {
       "schema_version": "1.0.0",
@@ -277,8 +277,8 @@
         "./wheels/zipp-3.20.2-py3-none-any.whl"
       ],
       "archive_url": "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.8.1-alpha240927/bonsai_py311-0.8.1-alpha240927-macos-arm64.zip",
-      "archive_size": 108339136,
-      "archive_hash": "sha256:b1e5ac0328e60062743ac6c58b804958aec41e2faf91ccced64d0e0aa99a9167"
+      "archive_size": 108340047,
+      "archive_hash": "sha256:cbd16371c249e85bb907bd95d86380692ba23b25b2a9b5054ae08d655eb8baaf"
     },
     {
       "schema_version": "1.0.0",
@@ -416,8 +416,8 @@
         "./wheels/zipp-3.20.2-py3-none-any.whl"
       ],
       "archive_url": "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.8.1-alpha240927/bonsai_py311-0.8.1-alpha240927-windows-x64.zip",
-      "archive_size": 87412803,
-      "archive_hash": "sha256:a2c4abcd3fcd74d9f375325b871d47392388d7ef8fc1749eba531df4527e9c89"
+      "archive_size": 87413716,
+      "archive_hash": "sha256:f967bd3ce090a222c368ca4691f8f2b3dcd4ae9fb35ba9be95b526a95c2895f5"
     },
     {
       "schema_version": "1.0.0",
@@ -555,8 +555,8 @@
         "./wheels/zipp-3.20.2-py3-none-any.whl"
       ],
       "archive_url": "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.8.1-alpha240927/bonsai_py311-0.8.1-alpha240927-linux-x64.zip",
-      "archive_size": 113527585,
-      "archive_hash": "sha256:571a17ed1aace223417f2ed34d119615fcb7418aafe74fb51b68c07894664f4a"
+      "archive_size": 113528429,
+      "archive_hash": "sha256:66c1376f2442338602faa835344e151e3a275553db47247eed50d0f88e590991"
     }
   ]
 }
