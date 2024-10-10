@@ -99,7 +99,7 @@
         "./wheels/lxml-5.3.0-cp311-cp311-macosx_10_9_x86_64.whl",
         "./wheels/multidict-6.1.0-cp311-cp311-macosx_10_9_x86_64.whl",
         "./wheels/natsort-8.4.0-py3-none-any.whl",
-        "./wheels/networkx-3.3-py3-none-any.whl",
+        "./wheels/networkx-3.4-py3-none-any.whl",
         "./wheels/odfpy-1.4.1-py2.py3-none-any.whl",
         "./wheels/openpyxl-3.1.5-py2.py3-none-any.whl",
         "./wheels/orderly_set-5.2.2-py3-none-any.whl",
@@ -140,8 +140,8 @@
         "./wheels/zipp-3.20.2-py3-none-any.whl"
       ],
       "archive_url": "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.8.1-alpha241010/bonsai_py311-0.8.1-alpha241010-macos-x64.zip",
-      "archive_size": 109496702,
-      "archive_hash": "sha256:468a8d037d9a7e10d7df488196d2e38c129aca1efb355edb17550db12756b68b"
+      "archive_size": 109515132,
+      "archive_hash": "sha256:5de3b3f51863597eed8770ba433d5838986507b7a47fd3fb9020f4d628011676"
     },
     {
       "schema_version": "1.0.0",
@@ -240,7 +240,7 @@
         "./wheels/lxml-5.3.0-cp311-cp311-macosx_10_9_arm64.whl",
         "./wheels/multidict-6.1.0-cp311-cp311-macosx_11_0_arm64.whl",
         "./wheels/natsort-8.4.0-py3-none-any.whl",
-        "./wheels/networkx-3.3-py3-none-any.whl",
+        "./wheels/networkx-3.4-py3-none-any.whl",
         "./wheels/odfpy-1.4.1-py2.py3-none-any.whl",
         "./wheels/openpyxl-3.1.5-py2.py3-none-any.whl",
         "./wheels/orderly_set-5.2.2-py3-none-any.whl",
@@ -281,8 +281,8 @@
         "./wheels/zipp-3.20.2-py3-none-any.whl"
       ],
       "archive_url": "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.8.1-alpha241010/bonsai_py311-0.8.1-alpha241010-macos-arm64.zip",
-      "archive_size": 109326252,
-      "archive_hash": "sha256:b045ec4615b7ac8d714ff10701b3ae10993c3f7abd92f7c44e980f6228dfbcf9"
+      "archive_size": 109344636,
+      "archive_hash": "sha256:33409286f2dd4b11f31a6dbbdffa743e79261570601907db994897ef86e49c4c"
     },
     {
       "schema_version": "1.0.0",
@@ -381,7 +381,7 @@
         "./wheels/lxml-5.3.0-cp311-cp311-win_amd64.whl",
         "./wheels/multidict-6.1.0-cp311-cp311-win_amd64.whl",
         "./wheels/natsort-8.4.0-py3-none-any.whl",
-        "./wheels/networkx-3.3-py3-none-any.whl",
+        "./wheels/networkx-3.4-py3-none-any.whl",
         "./wheels/odfpy-1.4.1-py2.py3-none-any.whl",
         "./wheels/openpyxl-3.1.5-py2.py3-none-any.whl",
         "./wheels/orderly_set-5.2.2-py3-none-any.whl",
@@ -422,8 +422,8 @@
         "./wheels/zipp-3.20.2-py3-none-any.whl"
       ],
       "archive_url": "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.8.1-alpha241010/bonsai_py311-0.8.1-alpha241010-windows-x64.zip",
-      "archive_size": 87638172,
-      "archive_hash": "sha256:11b0127af05c12bf544a3ffe4fe223e2a54b73f63e6f3b0cf64a12ae073c05a5"
+      "archive_size": 87656556,
+      "archive_hash": "sha256:938bd6acc1e90a2e58309f18235defd323c282d3a19494815f0078bd75f005bc"
     },
     {
       "schema_version": "1.0.0",
@@ -522,7 +522,7 @@
         "./wheels/lxml-5.3.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
         "./wheels/multidict-6.1.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
         "./wheels/natsort-8.4.0-py3-none-any.whl",
-        "./wheels/networkx-3.3-py3-none-any.whl",
+        "./wheels/networkx-3.4-py3-none-any.whl",
         "./wheels/odfpy-1.4.1-py2.py3-none-any.whl",
         "./wheels/openpyxl-3.1.5-py2.py3-none-any.whl",
         "./wheels/orderly_set-5.2.2-py3-none-any.whl",
@@ -563,8 +563,8 @@
         "./wheels/zipp-3.20.2-py3-none-any.whl"
       ],
       "archive_url": "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.8.1-alpha241010/bonsai_py311-0.8.1-alpha241010-linux-x64.zip",
-      "archive_size": 113739321,
-      "archive_hash": "sha256:1eb01b896c776f8ffeaa8a57e0ecd6ed0f72f94917fd1b74c8252783879cb03d"
+      "archive_size": 113757709,
+      "archive_hash": "sha256:0d908f85f6a18ba50d0f605bb3890788547f076cf95ab933edd072e0f7a8e730"
     }
   ]
 }
