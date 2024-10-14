@@ -31,7 +31,7 @@ Add\-on
 | [bonsai\-0\.8\.1\-alpha241014](https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.8.1-alpha241014/bonsai_py311-0.8.1-alpha241014-macos-x64.zip?repository=https://raw.githubusercontent.com/IfcOpenShell/bonsai_unstable_repo/main/index.json&blender_version_min=4.2.0&platforms=macos-x64) | Bonsai | A native Building Information Model authoring platform using IFC | [link](https://bonsaibim.org/) | 4\.2\.0 \- \~ | macos\-x64 | 104\.4MB |
 
 
-Built 2024\-10\-14, 00:51
+Built 2024\-10\-14, 12:42
 
 
 
