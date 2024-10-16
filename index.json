@@ -48,7 +48,7 @@
         "./wheels/Mako-1.3.5-py3-none-any.whl",
         "./wheels/MarkupSafe-3.0.1-cp311-cp311-macosx_11_0_arm64.whl",
         "./wheels/PyP6Xer-1.15.0-py3-none-any.whl",
-        "./wheels/SQLAlchemy-2.0.36-py3-none-any.whl",
+        "./wheels/SQLAlchemy-2.0.36-cp311-cp311-macosx_11_0_arm64.whl",
         "./wheels/aiohappyeyeballs-2.4.3-py3-none-any.whl",
         "./wheels/aiohttp-3.10.10-cp311-cp311-macosx_11_0_arm64.whl",
         "./wheels/aiosignal-1.3.1-py3-none-any.whl",
@@ -140,8 +140,8 @@
         "./wheels/zipp-3.20.2-py3-none-any.whl"
       ],
       "archive_url": "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.8.1-alpha241016/bonsai_py311-0.8.1-alpha241016-macos-arm64.zip",
-      "archive_size": 108762943,
-      "archive_hash": "sha256:f324dbbea938671b76a1e521b45c0be6e982d9fa950bb183a8cff3621d00622d"
+      "archive_size": 108957837,
+      "archive_hash": "sha256:97837926aac2744cffb9ddc0f8bad8d1ced38c434366a0a9083bc3c092c354e6"
     },
     {
       "schema_version": "1.0.0",
@@ -281,8 +281,8 @@
         "./wheels/zipp-3.20.2-py3-none-any.whl"
       ],
       "archive_url": "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.8.1-alpha241016/bonsai_py311-0.8.1-alpha241016-windows-x64.zip",
-      "archive_size": 87677495,
-      "archive_hash": "sha256:1cc7ef70f6c1f7cfe2a974e692bd3501a502c606ee8063adab76eb7032929e62"
+      "archive_size": 87677489,
+      "archive_hash": "sha256:8b43101d1d594b13604cb67c2eaba09dc6356fdb7bdab8b2855022349d97769f"
     },
     {
       "schema_version": "1.0.0",
@@ -422,8 +422,8 @@
         "./wheels/zipp-3.20.2-py3-none-any.whl"
       ],
       "archive_url": "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.8.1-alpha241016/bonsai_py311-0.8.1-alpha241016-linux-x64.zip",
-      "archive_size": 113609191,
-      "archive_hash": "sha256:1da0b5c7b015f9bdce83d04c0820c5f6e17cf9069278cd6918037bb29899e66c"
+      "archive_size": 113609167,
+      "archive_hash": "sha256:230aa8801c534211231ca6a7bbc92a4ea109c72218fc46086d9351049694f51f"
     },
     {
       "schema_version": "1.0.0",
@@ -471,7 +471,7 @@
         "./wheels/Mako-1.3.5-py3-none-any.whl",
         "./wheels/MarkupSafe-3.0.1-cp311-cp311-macosx_10_9_x86_64.whl",
         "./wheels/PyP6Xer-1.15.0-py3-none-any.whl",
-        "./wheels/SQLAlchemy-2.0.36-py3-none-any.whl",
+        "./wheels/SQLAlchemy-2.0.36-cp311-cp311-macosx_10_9_x86_64.whl",
         "./wheels/aiohappyeyeballs-2.4.3-py3-none-any.whl",
         "./wheels/aiohttp-3.10.10-cp311-cp311-macosx_10_9_x86_64.whl",
         "./wheels/aiosignal-1.3.1-py3-none-any.whl",
@@ -563,8 +563,8 @@
         "./wheels/zipp-3.20.2-py3-none-any.whl"
       ],
       "archive_url": "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.8.1-alpha241016/bonsai_py311-0.8.1-alpha241016-macos-x64.zip",
-      "archive_size": 108965129,
-      "archive_hash": "sha256:e4cce9ebc64aeb11376cab9424473eaf81f5b7007a9706d8cdfb2fa9145c6c71"
+      "archive_size": 109169891,
+      "archive_hash": "sha256:092a070ad485923f4e15235ae71744ea42ae71686e407e0a587926dd16e41d1a"
     }
   ]
 }
