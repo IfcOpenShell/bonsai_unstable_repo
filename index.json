@@ -140,8 +140,8 @@
         "./wheels/zipp-3.20.2-py3-none-any.whl"
       ],
       "archive_url": "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.8.1-alpha241016/bonsai_py311-0.8.1-alpha241016-macos-arm64.zip",
-      "archive_size": 108958872,
-      "archive_hash": "sha256:567f54c722df55d0d352c2749e693cb1cee05f7c04e134dae17b3a5e7c9a9a6e"
+      "archive_size": 108958875,
+      "archive_hash": "sha256:d8b2c82bfbf97a2a80a69580610170e3d4cfcc07fc4a963118775cbfc885a903"
     },
     {
       "schema_version": "1.0.0",
@@ -281,8 +281,8 @@
         "./wheels/zipp-3.20.2-py3-none-any.whl"
       ],
       "archive_url": "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.8.1-alpha241016/bonsai_py311-0.8.1-alpha241016-windows-x64.zip",
-      "archive_size": 87678548,
-      "archive_hash": "sha256:9b4616e150902ebe555cf4553ea7df286e4960aaf0d8038cdd8e230538ab99e2"
+      "archive_size": 87678542,
+      "archive_hash": "sha256:c9c9b1f9f2d7d8ee0e9c5d5ff16af59393ed51624730d1163523b7b7e472c791"
     },
     {
       "schema_version": "1.0.0",
@@ -422,8 +422,8 @@
         "./wheels/zipp-3.20.2-py3-none-any.whl"
       ],
       "archive_url": "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.8.1-alpha241016/bonsai_py311-0.8.1-alpha241016-linux-x64.zip",
-      "archive_size": 113610239,
-      "archive_hash": "sha256:87fb3aa704e6b4ceb0f1d00a689f5c400df8411d2d0a399a3e89af448d1ab3ff"
+      "archive_size": 113610223,
+      "archive_hash": "sha256:7777ce7f3504874ffd618b941af78ab9e8c53a9214770cbd9ef7eb795a8dce21"
     },
     {
       "schema_version": "1.0.0",
@@ -564,7 +564,7 @@
       ],
       "archive_url": "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.8.1-alpha241016/bonsai_py311-0.8.1-alpha241016-macos-x64.zip",
       "archive_size": 109170929,
-      "archive_hash": "sha256:482d16868555662dc3f1f8b4c2992cb68ffa69fd7d896f2fd6857f38530f7ce7"
+      "archive_hash": "sha256:a4217403d84f8c212d3f94e9fba4482b2e40a7cce3fc628e839d5258e38db1f9"
     }
   ]
 }
