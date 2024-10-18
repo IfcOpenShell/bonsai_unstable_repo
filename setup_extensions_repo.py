@@ -115,6 +115,8 @@ class ExtensionsRepo:
             package["archive_url"] = url
             replaced_urls[archive_url] = url
 
+        # Sort platforms for less noisy diff.
+        index["data"] = sorted(index["data"], key=lambda p: p["platforms"])
         self.replaced_urls = replaced_urls
 
         with open(INDEX_PATH, "w") as fo:
