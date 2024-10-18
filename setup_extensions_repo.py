@@ -21,7 +21,7 @@ HTML_PATH = PACKAGES_FOLDER / "index.html"
 MD_PATH = PACKAGES_FOLDER / "readme.md"
 MD_HEADER_PATH = PACKAGES_FOLDER / "readme_header.md"
 INDEX_URL = "https://raw.githubusercontent.com/IfcOpenShell/bonsai_unstable_repo/main/index.json"
-BASE_URL = "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-{version}/"
+BASE_URL = "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/{github_tag}/"
 BLENDER_PLATFORMS = ["windows-x64", "macos-x64", "macos-arm64", "linux-x64"]
 # Blender doesn't support separate builds for different Python versions :(
 PYTHON_VERSION = "py311"
@@ -48,6 +48,8 @@ def get_platform(filename: str) -> Union[str, None]:
 
 
 class ExtensionsRepo:
+    github_tag: str
+
     def __init__(self, github_tag: str):
         self.fetch_urls(github_tag)
         self.run_blender()
@@ -65,6 +67,7 @@ class ExtensionsRepo:
                     github_tag = release.tag_name
                     break
 
+        self.github_tag = github_tag
         release = repo.get_release(github_tag)
         platforms_urls = {}
         for asset in release.get_assets():
@@ -107,9 +110,8 @@ class ExtensionsRepo:
         replaced_urls = {}
 
         for package in index["data"]:
-            version = package["version"]
             archive_url = package["archive_url"]
-            url = urljoin(BASE_URL.format(version=version), archive_url)
+            url = urljoin(BASE_URL.format(github_tag=self.github_tag), archive_url)
             package["archive_url"] = url
             replaced_urls[archive_url] = url
 
