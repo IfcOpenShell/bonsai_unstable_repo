@@ -138,9 +138,9 @@
         "./wheels/yarl-1.17.1-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
         "./wheels/zipp-3.21.0-py3-none-any.whl"
       ],
-      "archive_url": "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.8.1-alpha2411121039/bonsai_py311-0.8.1-alpha241112-linux-x64.zip",
-      "archive_size": 113026627,
-      "archive_hash": "sha256:8ad565c1619b7d86fc7696f97495ed181978f139896b599ba0bc393233b792fb"
+      "archive_url": "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.8.1-alpha2411121341/bonsai_py311-0.8.1-alpha241112-linux-x64.zip",
+      "archive_size": 113026672,
+      "archive_hash": "sha256:ba40124fcceaee95703991d6d44c2b961f1e25ec3535f739768a15239072d121"
     },
     {
       "schema_version": "1.0.0",
@@ -278,9 +278,9 @@
         "./wheels/yarl-1.17.1-cp311-cp311-macosx_11_0_arm64.whl",
         "./wheels/zipp-3.21.0-py3-none-any.whl"
       ],
-      "archive_url": "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.8.1-alpha2411121039/bonsai_py311-0.8.1-alpha241112-macos-arm64.zip",
-      "archive_size": 106005312,
-      "archive_hash": "sha256:71b3014560e30a2732852c8965ac75365ccaae76296adfcbd0fb518a5875d44f"
+      "archive_url": "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.8.1-alpha2411121341/bonsai_py311-0.8.1-alpha241112-macos-arm64.zip",
+      "archive_size": 106005361,
+      "archive_hash": "sha256:a9b8afff457ae28deafdbedb6df79a701b988413ce8909dcc5819991d419253c"
     },
     {
       "schema_version": "1.0.0",
@@ -418,9 +418,9 @@
         "./wheels/yarl-1.17.1-cp311-cp311-macosx_10_9_x86_64.whl",
         "./wheels/zipp-3.21.0-py3-none-any.whl"
       ],
-      "archive_url": "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.8.1-alpha2411121039/bonsai_py311-0.8.1-alpha241112-macos-x64.zip",
-      "archive_size": 106278961,
-      "archive_hash": "sha256:940bf6d78d45f601d695ed7243cd12191c6a97214492ece491cc548666ab4d41"
+      "archive_url": "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.8.1-alpha2411121341/bonsai_py311-0.8.1-alpha241112-macos-x64.zip",
+      "archive_size": 106279013,
+      "archive_hash": "sha256:de63f640f862487628aaf30ed188bda653822cca7d2ac27cfb7325145353a55b"
     },
     {
       "schema_version": "1.0.0",
@@ -558,9 +558,9 @@
         "./wheels/yarl-1.17.1-cp311-cp311-win_amd64.whl",
         "./wheels/zipp-3.21.0-py3-none-any.whl"
       ],
-      "archive_url": "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.8.1-alpha2411121039/bonsai_py311-0.8.1-alpha241112-windows-x64.zip",
-      "archive_size": 84397806,
-      "archive_hash": "sha256:78b9b1d080f93d6a75bdb66b145f652ce8127e16697e81b5301fafd670c0b2ea"
+      "archive_url": "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.8.1-alpha2411121341/bonsai_py311-0.8.1-alpha241112-windows-x64.zip",
+      "archive_size": 84397839,
+      "archive_hash": "sha256:ef1c17d61e74a9716e7ddd56f66209f050a0ef62d27ea65c816fe7007357c8a4"
     }
   ]
 }
