@@ -6,32 +6,22 @@ See [Unstable Installation instructions](https://docs.bonsaibim.org/guides/devel
 
 
 
-
 Blender Extensions
-
 
 Blender Extension Listing:
 
-
-Add\-on
-
-
-
+Add-on
 
 ---
 
-
-
-
 | ID | Name | Description | Website | Blender Versions | Python Versions | Platforms | Size |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [bonsai\-0\.8\.1\-alpha241122](https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.8.1-alpha2411220942/bonsai_py311-0.8.1-alpha241122-windows-x64.zip?repository=https://raw.githubusercontent.com/IfcOpenShell/bonsai_unstable_repo/main/index.json&blender_version_min=4.2.0&platforms=windows-x64&python_versions=3.11) | Bonsai | A native Building Information Model authoring platform using IFC | [link](https://bonsaibim.org/) | 4\.2\.0 \- \~ | 3\.11 | windows\-x64 | 80\.6MB |
-| [bonsai\-0\.8\.1\-alpha241122](https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.8.1-alpha2411220942/bonsai_py311-0.8.1-alpha241122-macos-x64.zip?repository=https://raw.githubusercontent.com/IfcOpenShell/bonsai_unstable_repo/main/index.json&blender_version_min=4.2.0&platforms=macos-x64&python_versions=3.11) | Bonsai | A native Building Information Model authoring platform using IFC | [link](https://bonsaibim.org/) | 4\.2\.0 \- \~ | 3\.11 | macos\-x64 | 101\.0MB |
-| [bonsai\-0\.8\.1\-alpha241122](https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.8.1-alpha2411220942/bonsai_py311-0.8.1-alpha241122-macos-arm64.zip?repository=https://raw.githubusercontent.com/IfcOpenShell/bonsai_unstable_repo/main/index.json&blender_version_min=4.2.0&platforms=macos-arm64&python_versions=3.11) | Bonsai | A native Building Information Model authoring platform using IFC | [link](https://bonsaibim.org/) | 4\.2\.0 \- \~ | 3\.11 | macos\-arm64 | 101\.6MB |
-| [bonsai\-0\.8\.1\-alpha241122](https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.8.1-alpha2411220942/bonsai_py311-0.8.1-alpha241122-linux-x64.zip?repository=https://raw.githubusercontent.com/IfcOpenShell/bonsai_unstable_repo/main/index.json&blender_version_min=4.2.0&platforms=linux-x64&python_versions=3.11) | Bonsai | A native Building Information Model authoring platform using IFC | [link](https://bonsaibim.org/) | 4\.2\.0 \- \~ | 3\.11 | linux\-x64 | 108\.2MB |
+| [bonsai-0.8.1-alpha241125](https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.8.1-alpha2411251149/bonsai_py311-0.8.1-alpha241125-macos-arm64.zip?repository=https://raw.githubusercontent.com/IfcOpenShell/bonsai_unstable_repo/main/index.json&blender_version_min=4.2.0&platforms=macos-arm64&python_versions=3.11) | Bonsai | A native Building Information Model authoring platform using IFC | [link](https://bonsaibim.org/) | 4.2.0 - ~ | 3.11 | macos-arm64 | 101.6MB |
+| [bonsai-0.8.1-alpha241125](https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.8.1-alpha2411251149/bonsai_py311-0.8.1-alpha241125-linux-x64.zip?repository=https://raw.githubusercontent.com/IfcOpenShell/bonsai_unstable_repo/main/index.json&blender_version_min=4.2.0&platforms=linux-x64&python_versions=3.11) | Bonsai | A native Building Information Model authoring platform using IFC | [link](https://bonsaibim.org/) | 4.2.0 - ~ | 3.11 | linux-x64 | 108.2MB |
+| [bonsai-0.8.1-alpha241125](https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.8.1-alpha2411251149/bonsai_py311-0.8.1-alpha241125-windows-x64.zip?repository=https://raw.githubusercontent.com/IfcOpenShell/bonsai_unstable_repo/main/index.json&blender_version_min=4.2.0&platforms=windows-x64&python_versions=3.11) | Bonsai | A native Building Information Model authoring platform using IFC | [link](https://bonsaibim.org/) | 4.2.0 - ~ | 3.11 | windows-x64 | 80.6MB |
+| [bonsai-0.8.1-alpha241125](https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.8.1-alpha2411251149/bonsai_py311-0.8.1-alpha241125-macos-x64.zip?repository=https://raw.githubusercontent.com/IfcOpenShell/bonsai_unstable_repo/main/index.json&blender_version_min=4.2.0&platforms=macos-x64&python_versions=3.11) | Bonsai | A native Building Information Model authoring platform using IFC | [link](https://bonsaibim.org/) | 4.2.0 - ~ | 3.11 | macos-x64 | 101.0MB |
 
-
-Built 2024\-11\-22, 09:46
+Built 2024-11-25, 11:54
 
 
 
