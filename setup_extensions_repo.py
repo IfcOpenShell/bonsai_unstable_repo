@@ -4,6 +4,7 @@ import json
 import requests
 import shutil
 import markdownify
+import subprocess
 from pathlib import Path
 from urllib.parse import urljoin
 from lxml import etree, html
@@ -69,7 +70,7 @@ class ExtensionsRepo:
 
         self.github_tag = github_tag
         release = repo.get_release(github_tag)
-        platforms_urls = {}
+        platforms_urls: dict[str, str] = {}
         for asset in release.get_assets():
             name = asset.name
             if PYTHON_VERSION not in name:
@@ -91,10 +92,11 @@ class ExtensionsRepo:
         print("Finished downloading .zip packages.")
 
     def run_blender(self) -> None:
-        return_code = os.system(f"blender --command extension server-generate --repo-dir={PACKAGES_FOLDER} --html")
-        if return_code != 0:
-            raise Exception(f"Blender return code was '{return_code}'.")
-
+        assert (blender := shutil.which("blender")), "'blender' must be available from the PATH."
+        subprocess.check_call(
+            f"{Path(blender).name} --command extension server-generate --repo-dir={PACKAGES_FOLDER.absolute().__str__()} --html",
+            shell=True,
+        )
         print("Finished blender 'extension server-generate'.")
 
     def patch_repo_files(self) -> None:
@@ -107,7 +109,7 @@ class ExtensionsRepo:
         with open(INDEX_PATH, "rb") as fi:
             index = json.load(fi)
 
-        replaced_urls = {}
+        replaced_urls: dict[str, str] = {}
 
         for package in index["data"]:
             archive_url = package["archive_url"]
