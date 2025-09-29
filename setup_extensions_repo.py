@@ -17,18 +17,19 @@
 # along with Bonsai.  If not, see <http://www.gnu.org/licenses/>.
 
 
-import os
-import sys
 import json
-import requests
+import os
 import shutil
-import markdownify
 import subprocess
+import sys
 from pathlib import Path
-from urllib.parse import urljoin
-from lxml import etree, html
-from github import Github
 from typing import Union
+from urllib.parse import urljoin
+
+import markdownify
+import requests
+from github import Github
+from lxml import etree, html
 
 # Useful:
 # - https://docs.blender.org/manual/en/latest/advanced/extensions/creating_repository/static_repository.html
