@@ -46,9 +46,9 @@
       "python_versions": [
         "3.11"
       ],
-      "archive_url": "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.8.4-alpha2510060558/bonsai_py311-0.8.4-alpha251006-linux-x64.zip",
-      "archive_size": 142779788,
-      "archive_hash": "sha256:1d4d366e258a9d99f18d6cd2036880eb2cf66fe415bb5d9861da478b10b3f214"
+      "archive_url": "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.8.4-alpha2510060603/bonsai_py311-0.8.4-alpha251006-linux-x64.zip",
+      "archive_size": 142779770,
+      "archive_hash": "sha256:85fa6112d0354fd4b36fe229783784024cd2fecd718bb9ff6756b6d5ec1ff966"
     },
     {
       "schema_version": "1.0.0",
@@ -94,9 +94,9 @@
       "python_versions": [
         "3.11"
       ],
-      "archive_url": "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.8.4-alpha2510060558/bonsai_py311-0.8.4-alpha251006-macos-arm64.zip",
-      "archive_size": 136124050,
-      "archive_hash": "sha256:a50606bc5a3fa25fc3231b558cca935993e9743d769171cd4ebbbc2d2faa0f77"
+      "archive_url": "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.8.4-alpha2510060603/bonsai_py311-0.8.4-alpha251006-macos-arm64.zip",
+      "archive_size": 136124057,
+      "archive_hash": "sha256:a8b9b61f00d379f8ed604a4b63e493a7b3bd09383c5eeb6b8d349bf1a6c18dd2"
     },
     {
       "schema_version": "1.0.0",
@@ -142,9 +142,9 @@
       "python_versions": [
         "3.11"
       ],
-      "archive_url": "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.8.4-alpha2510060558/bonsai_py311-0.8.4-alpha251006-macos-x64.zip",
-      "archive_size": 133005529,
-      "archive_hash": "sha256:2dd29693a01a5f190673406fe13c57863285a61c164ab51183a28b540209dfe9"
+      "archive_url": "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.8.4-alpha2510060603/bonsai_py311-0.8.4-alpha251006-macos-x64.zip",
+      "archive_size": 133005519,
+      "archive_hash": "sha256:5a2083c2d5d3a5697b4393e61aac3fe20d4f58e588bb7c59d0f34ec4b22fcfc9"
     },
     {
       "schema_version": "1.0.0",
@@ -190,9 +190,9 @@
       "python_versions": [
         "3.11"
       ],
-      "archive_url": "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.8.4-alpha2510060558/bonsai_py311-0.8.4-alpha251006-windows-x64.zip",
-      "archive_size": 116654849,
-      "archive_hash": "sha256:80f6bca52a4285cf29ca8d826df229eacf5826c9216194d98b63a26df24abbad"
+      "archive_url": "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.8.4-alpha2510060603/bonsai_py311-0.8.4-alpha251006-windows-x64.zip",
+      "archive_size": 116654823,
+      "archive_hash": "sha256:1a1de486205dec43dce7e8f4b4fcec729c1b1107ce7407bb387727f4a1239360"
     }
   ]
 }
