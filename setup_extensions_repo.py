@@ -30,6 +30,7 @@ import subprocess
 import sys
 from itertools import product
 from pathlib import Path
+from typing import Any
 from urllib.parse import urljoin
 
 import markdownify
@@ -176,6 +177,30 @@ class ExtensionsRepo:
             url_arguments = url_arguments.replace(".%2Findex.json", INDEX_URL)
             new_href = f"{self.replaced_urls[url]}?{url_arguments}"
             a.set("href", new_href)
+
+        def sort_table_rows() -> None:
+            # Sort table rows to make sure different Python versions are grouped.
+            table = tree.xpath("//table")[0]
+            rows = table.xpath("//tr")
+
+            rows_data: dict[Any, tuple[str, str]] = {}
+            for row in rows:
+                th = row.xpath("./th")
+                if th:
+                    # Skip header.
+                    continue
+                blender_version = row.xpath("./td[5]/text()")[0]
+                blender_platform = row.xpath("./td[7]/text()")[0]
+                rows_data[row] = (blender_version, blender_platform)
+
+            rows_sorted = sorted(rows_data, key=lambda x: rows_data[x][1], reverse=True)
+            rows_sorted = sorted(rows_sorted, key=lambda x: rows_data[x][0])
+            for row in rows_sorted:
+                table.remove(row)
+            for row in rows_sorted:
+                table.append(row)
+
+        sort_table_rows()
 
         with open(HTML_PATH, "w", encoding="utf-8") as f:
             html_string = etree.tostring(tree, method="html", pretty_print=True, encoding="utf-8").decode("utf-8")
