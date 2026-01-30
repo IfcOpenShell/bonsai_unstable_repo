@@ -24,7 +24,6 @@ import subprocess
 import sys
 from itertools import product
 from pathlib import Path
-from typing import Union
 from urllib.parse import urljoin
 
 import markdownify
@@ -68,7 +67,7 @@ def check_url(url) -> bool:
     return False
 
 
-def get_platform(filename: str) -> Union[str, None]:
+def get_platform(filename: str) -> str | None:
     for platorm in BLENDER_PLATFORMS:
         if platorm in filename:
             return platorm
@@ -128,26 +127,25 @@ class ExtensionsRepo:
         print("Finished blender 'extension server-generate'.")
 
     def patch_repo_files(self) -> None:
-        self.replaced_urls = {}
         self.patch_index_json()
         self.patch_index_html()
         self.convert_html_to_md()
+
+    replaced_urls: dict[str, str]
 
     def patch_index_json(self) -> None:
         with open(INDEX_PATH, "rb") as fi:
             index = json.load(fi)
 
-        replaced_urls: dict[str, str] = {}
-
+        self.replaced_urls = {}
         for package in index["data"]:
             archive_url = package["archive_url"]
             url = urljoin(BASE_URL.format(github_tag=self.github_tag), archive_url)
             package["archive_url"] = url
-            replaced_urls[archive_url] = url
+            self.replaced_urls[archive_url] = url
 
         # Sort platforms for less noisy diff.
         index["data"] = sorted(index["data"], key=lambda p: p["platforms"])
-        self.replaced_urls = replaced_urls
 
         with open(INDEX_PATH, "w") as fo:
             json.dump(index, fo, indent=2)
