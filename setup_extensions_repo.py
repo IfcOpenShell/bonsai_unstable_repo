@@ -22,6 +22,7 @@ import os
 import shutil
 import subprocess
 import sys
+from itertools import product
 from pathlib import Path
 from typing import Union
 from urllib.parse import urljoin
@@ -44,8 +45,13 @@ MD_HEADER_PATH = PACKAGES_FOLDER / "readme_header.md"
 INDEX_URL = "https://raw.githubusercontent.com/IfcOpenShell/bonsai_unstable_repo/main/index.json"
 BASE_URL = "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/{github_tag}/"
 BLENDER_PLATFORMS = ["windows-x64", "macos-x64", "macos-arm64", "linux-x64"]
-# Blender doesn't support separate builds for different Python versions :(
-PYTHON_VERSION = "py311"
+
+# Blender doesn't support separate builds for different Python versions,
+# but it does support separate builds for different Blender versions.
+# Also, though Python version is not explicitly specified in the manifest files,
+# Blender detects it (probably based on the wheels) and adds it index.json,
+# preventing users from installing wrong Python version packages.
+PYTHON_VERSIONS = ("py311", "py313")
 
 
 def check_url(url) -> bool:
@@ -90,19 +96,21 @@ class ExtensionsRepo:
 
         self.github_tag = github_tag
         release = repo.get_release(github_tag)
-        platforms_urls: dict[str, str] = {}
+        platforms_urls: dict[tuple[str, str], str] = {}
         for asset in release.get_assets():
             name = asset.name
-            if PYTHON_VERSION not in name:
+            last_checked_py_version = None
+            if not any((last_checked_py_version := py_version) in name for py_version in PYTHON_VERSIONS):
                 continue
             if not (platform := get_platform(name)):
                 continue
-            platforms_urls[platform] = asset.browser_download_url
+            platforms_urls[(platform, last_checked_py_version)] = asset.browser_download_url
 
-        if len(platforms_urls) != len(BLENDER_PLATFORMS):
-            missing_platforms = set(BLENDER_PLATFORMS) - set(platforms_urls)
+        required_builds = [(plat, py) for plat, py in product(BLENDER_PLATFORMS, PYTHON_VERSIONS)]
+        if len(platforms_urls) != len(required_builds):
+            missing_platforms = set(required_builds) - set(platforms_urls)
             raise Exception(
-                f"Couldn't find in the release '{github_tag}' .zip files for some platforms: '{missing_platforms}'."
+                f"Couldn't find in the release '{github_tag}' .zip files for some platforms: {missing_platforms}."
             )
 
         for url in platforms_urls.values():
