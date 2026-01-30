@@ -112,6 +112,8 @@ class ExtensionsRepo:
             platforms_urls[(platform, last_checked_py_version)] = asset.browser_download_url
 
         required_builds = [(plat, py) for plat, py in product(BLENDER_PLATFORMS, PYTHON_VERSIONS)]
+        # Python 3.13 introduced in Blender 5.1, intel mac support was dropped in 5.0.
+        required_builds.remove(("macos-x64", "py313"))
         if len(platforms_urls) != len(required_builds):
             missing_platforms = set(required_builds) - set(platforms_urls)
             raise Exception(
