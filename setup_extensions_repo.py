@@ -16,6 +16,12 @@
 # You should have received a copy of the GNU General Public License
 # along with Bonsai.  If not, see <http://www.gnu.org/licenses/>.
 
+"""
+Script downloads IfcOpenShell .zip packages from a specified GitHub release tag
+and using `blender` generates a Blender extensions repository - `index.json` and `readme.md`.
+
+See usage example in `ifmain` block.
+"""
 
 import json
 import os
@@ -127,8 +133,11 @@ class ExtensionsRepo:
         print("Finished blender 'extension server-generate'.")
 
     def patch_repo_files(self) -> None:
+        # Generated json and html files are pointing to local .zip paths,
+        # so we're patching them to point to the GitHub releases.
         self.patch_index_json()
         self.patch_index_html()
+        # Convert html to markdown to make it available as a readme.md on GitHub.
         self.convert_html_to_md()
 
     replaced_urls: dict[str, str]
