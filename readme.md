@@ -23,4 +23,4 @@ Add-on
 | [bonsai-0.8.6-alpha260713](https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.8.6-alpha2607131046/bonsai_py313-0.8.6-alpha260713-macos-arm64.zip?repository=https://raw.githubusercontent.com/IfcOpenShell/bonsai_unstable_repo/main/index.json&blender_version_min=5.1.0&platforms=macos-arm64&python_versions=3.13) | Bonsai | A native Building Information Model authoring platform using IFC | [link](https://bonsaibim.org/) | 5.1.0 - ~ | 3.13 | macos-arm64 | 129.3MB |
 | [bonsai-0.8.6-alpha260713](https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.8.6-alpha2607131046/bonsai_py313-0.8.6-alpha260713-linux-x64.zip?repository=https://raw.githubusercontent.com/IfcOpenShell/bonsai_unstable_repo/main/index.json&blender_version_min=5.1.0&platforms=linux-x64&python_versions=3.13) | Bonsai | A native Building Information Model authoring platform using IFC | [link](https://bonsaibim.org/) | 5.1.0 - ~ | 3.13 | linux-x64 | 143.4MB |
 
-Built 2026-07-13, 10:52
+Built 2026-07-13, 10:55
