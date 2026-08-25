@@ -50,7 +50,7 @@ MD_PATH = PACKAGES_FOLDER / "readme.md"
 MD_HEADER_PATH = PACKAGES_FOLDER / "readme_header.md"
 INDEX_URL = "https://raw.githubusercontent.com/IfcOpenShell/bonsai_unstable_repo/main/index.json"
 BASE_URL = "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/{github_tag}/"
-BLENDER_PLATFORMS = ["windows-x64", "macos-x64", "macos-arm64", "linux-x64"]
+BLENDER_PLATFORMS = ["windows-x64", "macos-arm64", "linux-x64"]
 
 # Blender doesn't support separate builds for different Python versions,
 # but it does support separate builds for different Blender versions.
@@ -113,8 +113,6 @@ class ExtensionsRepo:
             platforms_urls[(platform, last_checked_py_version)] = asset.browser_download_url
 
         required_builds = [(plat, py) for plat, py in product(BLENDER_PLATFORMS, PYTHON_VERSIONS)]
-        # Python 3.13 introduced in Blender 5.1, intel mac support was dropped in 5.0.
-        required_builds.remove(("macos-x64", "py313"))
         if len(platforms_urls) != len(required_builds):
             missing_platforms = set(required_builds) - set(platforms_urls)
             raise Exception(
