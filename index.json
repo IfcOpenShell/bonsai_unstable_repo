@@ -7,7 +7,7 @@
       "id": "bonsai",
       "name": "Bonsai",
       "tagline": "A native Building Information Model authoring platform using IFC",
-      "version": "0.9.0-alpha260825",
+      "version": "0.9.0-alpha260826",
       "type": "add-on",
       "maintainer": "Dion Moult <dion@thinkmoult.com>",
       "license": [
@@ -46,16 +46,16 @@
       "python_versions": [
         "3.11"
       ],
-      "archive_url": "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.9.0-alpha2608251413/bonsai_py311-0.9.0-alpha260825-linux-x64.zip",
-      "archive_size": 114943230,
-      "archive_hash": "sha256:ff40e649b7c365502be2eff22917fbdd0fd7e8d5542dbec191aede93a4e34094"
+      "archive_url": "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.9.0-alpha2608261658/bonsai_py311-0.9.0-alpha260826-linux-x64.zip",
+      "archive_size": 114950004,
+      "archive_hash": "sha256:36d260010907a78086ed7411b003dd3d6ae9ff7bfa7ee095413f7205d0b15cf6"
     },
     {
       "schema_version": "1.0.0",
       "id": "bonsai",
       "name": "Bonsai",
       "tagline": "A native Building Information Model authoring platform using IFC",
-      "version": "0.9.0-alpha260825",
+      "version": "0.9.0-alpha260826",
       "type": "add-on",
       "maintainer": "Dion Moult <dion@thinkmoult.com>",
       "license": [
@@ -94,64 +94,16 @@
       "python_versions": [
         "3.13"
       ],
-      "archive_url": "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.9.0-alpha2608251413/bonsai_py313-0.9.0-alpha260825-linux-x64.zip",
-      "archive_size": 114464470,
-      "archive_hash": "sha256:a8223348e116d2381b764cb4a62c8345576a4e11d1425f2cf2080f39b2804fea"
+      "archive_url": "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.9.0-alpha2608261658/bonsai_py313-0.9.0-alpha260826-linux-x64.zip",
+      "archive_size": 114471269,
+      "archive_hash": "sha256:f1e58c1d7bf0318f57b3db8cda97003b9c21b549461df2b65fa1bf6c5624f4d4"
     },
     {
       "schema_version": "1.0.0",
       "id": "bonsai",
       "name": "Bonsai",
       "tagline": "A native Building Information Model authoring platform using IFC",
-      "version": "0.9.0-alpha260825",
-      "type": "add-on",
-      "maintainer": "Dion Moult <dion@thinkmoult.com>",
-      "license": [
-        "SPDX:GPL-3.0-or-later"
-      ],
-      "blender_version_min": "5.1.0",
-      "website": "https://bonsaibim.org/",
-      "permissions": {
-        "network": "Augin / Cove.Tool integration for VR and environmental analysis",
-        "files": "Load and save IFCs, IDS, BCF, etc from disk",
-        "clipboard": "Copy and paste error logs"
-      },
-      "tags": [
-        "3D View",
-        "Add Mesh",
-        "Animation",
-        "Camera",
-        "Development",
-        "Import-Export",
-        "Lighting",
-        "Material",
-        "Modeling",
-        "Mesh",
-        "Node",
-        "Object",
-        "Pipeline",
-        "Render",
-        "Scene",
-        "System",
-        "User Interface",
-        "UV"
-      ],
-      "platforms": [
-        "macos-arm64"
-      ],
-      "python_versions": [
-        "3.13"
-      ],
-      "archive_url": "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.9.0-alpha2608251413/bonsai_py313-0.9.0-alpha260825-macos-arm64.zip",
-      "archive_size": 101358930,
-      "archive_hash": "sha256:865f129b5048f73bfc59894a3b4107c00e8340dce48a9671ab8408df2a38db0e"
-    },
-    {
-      "schema_version": "1.0.0",
-      "id": "bonsai",
-      "name": "Bonsai",
-      "tagline": "A native Building Information Model authoring platform using IFC",
-      "version": "0.9.0-alpha260825",
+      "version": "0.9.0-alpha260826",
       "type": "add-on",
       "maintainer": "Dion Moult <dion@thinkmoult.com>",
       "license": [
@@ -190,16 +142,64 @@
       "python_versions": [
         "3.11"
       ],
-      "archive_url": "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.9.0-alpha2608251413/bonsai_py311-0.9.0-alpha260825-macos-arm64.zip",
-      "archive_size": 101417442,
-      "archive_hash": "sha256:635899cad5f3fae3cddcf8b73edaa4bf938f528c0786ec75c23a5eb7762bb8da"
+      "archive_url": "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.9.0-alpha2608261658/bonsai_py311-0.9.0-alpha260826-macos-arm64.zip",
+      "archive_size": 101424234,
+      "archive_hash": "sha256:1576a9a083615aa597e557b945ab0b06292156d82769eec40bc247676d4da8ae"
     },
     {
       "schema_version": "1.0.0",
       "id": "bonsai",
       "name": "Bonsai",
       "tagline": "A native Building Information Model authoring platform using IFC",
-      "version": "0.9.0-alpha260825",
+      "version": "0.9.0-alpha260826",
+      "type": "add-on",
+      "maintainer": "Dion Moult <dion@thinkmoult.com>",
+      "license": [
+        "SPDX:GPL-3.0-or-later"
+      ],
+      "blender_version_min": "5.1.0",
+      "website": "https://bonsaibim.org/",
+      "permissions": {
+        "network": "Augin / Cove.Tool integration for VR and environmental analysis",
+        "files": "Load and save IFCs, IDS, BCF, etc from disk",
+        "clipboard": "Copy and paste error logs"
+      },
+      "tags": [
+        "3D View",
+        "Add Mesh",
+        "Animation",
+        "Camera",
+        "Development",
+        "Import-Export",
+        "Lighting",
+        "Material",
+        "Modeling",
+        "Mesh",
+        "Node",
+        "Object",
+        "Pipeline",
+        "Render",
+        "Scene",
+        "System",
+        "User Interface",
+        "UV"
+      ],
+      "platforms": [
+        "macos-arm64"
+      ],
+      "python_versions": [
+        "3.13"
+      ],
+      "archive_url": "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.9.0-alpha2608261658/bonsai_py313-0.9.0-alpha260826-macos-arm64.zip",
+      "archive_size": 101365704,
+      "archive_hash": "sha256:7ce45cab3903a40e4a8ab9d1623c4ff2a4e11799c6d2b9d60ec78e3182acf2b2"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "bonsai",
+      "name": "Bonsai",
+      "tagline": "A native Building Information Model authoring platform using IFC",
+      "version": "0.9.0-alpha260826",
       "type": "add-on",
       "maintainer": "Dion Moult <dion@thinkmoult.com>",
       "license": [
@@ -238,16 +238,16 @@
       "python_versions": [
         "3.11"
       ],
-      "archive_url": "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.9.0-alpha2608251413/bonsai_py311-0.9.0-alpha260825-windows-x64.zip",
-      "archive_size": 104790286,
-      "archive_hash": "sha256:b12704323ec1f0c02cfe87bd335b446bc81d8c7ab6a320a9eb1534d49cbe7339"
+      "archive_url": "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.9.0-alpha2608261658/bonsai_py311-0.9.0-alpha260826-windows-x64.zip",
+      "archive_size": 104797110,
+      "archive_hash": "sha256:3b4cd013c549429f3480e593e3f11c0c90ec877eedb95aeb66a64fee94441786"
     },
     {
       "schema_version": "1.0.0",
       "id": "bonsai",
       "name": "Bonsai",
       "tagline": "A native Building Information Model authoring platform using IFC",
-      "version": "0.9.0-alpha260825",
+      "version": "0.9.0-alpha260826",
       "type": "add-on",
       "maintainer": "Dion Moult <dion@thinkmoult.com>",
       "license": [
@@ -286,9 +286,9 @@
       "python_versions": [
         "3.13"
       ],
-      "archive_url": "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.9.0-alpha2608251413/bonsai_py313-0.9.0-alpha260825-windows-x64.zip",
-      "archive_size": 104598661,
-      "archive_hash": "sha256:ebe4f7e494d6116b9cfca3a2c6393313e0affa8581261d1d246b7b02e8d86ebb"
+      "archive_url": "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.9.0-alpha2608261658/bonsai_py313-0.9.0-alpha260826-windows-x64.zip",
+      "archive_size": 104605443,
+      "archive_hash": "sha256:9e5f8f21e634c54fd48131dcf248cafe1feb1725bd2c6f41ecaf2101b5fe0f7e"
     }
   ]
 }
