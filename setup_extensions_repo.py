@@ -19,16 +19,14 @@
 """
 Script downloads IfcOpenShell .zip packages from a specified GitHub release tag
 and using `blender` generates a Blender extensions repository - `index.json` and `readme.md`.
-
-See usage example in `ifmain` block.
 """
 
+import argparse
 import json
 import os
 import shutil
 import subprocess
-import sys
-from itertools import product
+from itertools import islice, product
 from pathlib import Path
 from typing import Any
 from urllib.parse import urljoin
@@ -83,22 +81,22 @@ def get_platform(filename: str) -> str | None:
 class ExtensionsRepo:
     github_tag: str
 
-    def __init__(self, github_tag: str):
+    def __init__(self, github_tag: str | None):
         self.fetch_urls(github_tag)
         self.run_blender()
         self.patch_repo_files()
 
-    def fetch_urls(self, github_tag: str) -> None:
+    def fetch_urls(self, github_tag: str | None) -> None:
         g = Github()
         repo = g.get_repo("IfcOpenShell/IfcOpenShell")
 
-        if github_tag == "--last-tag":
-            for i, release in enumerate(repo.get_releases()):
-                if i >= 10:
-                    raise Exception("Couldn't find a release with a valid tag in the last 10 releases.")
+        if github_tag is None:
+            for release in islice(repo.get_releases(), 10):
                 if release.tag_name.startswith("bonsai-"):
                     github_tag = release.tag_name
                     break
+            else:
+                raise Exception("Couldn't find a release with a valid tag in the last 10 releases.")
 
         self.github_tag = github_tag
         release = repo.get_release(github_tag)
@@ -228,7 +226,11 @@ class ExtensionsRepo:
 
 
 if __name__ == "__main__":
-    if len(sys.argv) < 2:
-        script_name = Path(__file__).name
-        raise Exception(f"Usage: 'py {script_name} <github_releases_tag>' | 'py {script_name} --last-tag'")
-    ExtensionsRepo(sys.argv[1])
+    parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
+    group = parser.add_mutually_exclusive_group(required=True)
+    group.add_argument(
+        "github_tag", nargs="?", help="IfcOpenShell GitHub release tag to use (e.g. 'bonsai-0.8.4-alpha2510131200')."
+    )
+    group.add_argument("--last-tag", action="store_true", help="Use the latest 'bonsai-*' release tag.")
+    args = parser.parse_args()
+    ExtensionsRepo(None if args.last_tag else args.github_tag)
