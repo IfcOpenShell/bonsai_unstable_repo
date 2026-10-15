@@ -14,6 +14,7 @@
         "SPDX:GPL-3.0-or-later"
       ],
       "blender_version_min": "4.2.0",
+      "blender_version_max": "5.1.0",
       "website": "https://bonsaibim.org/",
       "permissions": {
         "network": "Augin / Cove.Tool integration for VR and environmental analysis",
@@ -46,9 +47,9 @@
       "python_versions": [
         "3.11"
       ],
-      "archive_url": "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.9.1-alpha2610151546/bonsai_py311-0.9.1-alpha261015-linux-x64.zip",
-      "archive_size": 169935236,
-      "archive_hash": "sha256:810d3c68132dee208fa0ad585be4dd76370e790d5176d2df7f064faac07dc96e"
+      "archive_url": "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.9.1-alpha2610151550/bonsai_py311-0.9.1-alpha261015-linux-x64.zip",
+      "archive_size": 169935458,
+      "archive_hash": "sha256:3f9e79d2cbcc69d1d1890f17d2d387d5b6891e4a2041bb7a00376c7b061e1e1a"
     },
     {
       "schema_version": "1.0.0",
@@ -94,9 +95,9 @@
       "python_versions": [
         "3.13"
       ],
-      "archive_url": "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.9.1-alpha2610151546/bonsai_py313-0.9.1-alpha261015-linux-x64.zip",
-      "archive_size": 169519099,
-      "archive_hash": "sha256:203ac0e03c20065c3adc6adca9c263e49e850c4732cd27cfa8626c71536b4b78"
+      "archive_url": "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.9.1-alpha2610151550/bonsai_py313-0.9.1-alpha261015-linux-x64.zip",
+      "archive_size": 169519342,
+      "archive_hash": "sha256:6ccc4be5ca6d266c5d42028364ec855324014faac0c1fea032db0b462cd2cd3f"
     },
     {
       "schema_version": "1.0.0",
@@ -142,9 +143,9 @@
       "python_versions": [
         "3.13"
       ],
-      "archive_url": "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.9.1-alpha2610151546/bonsai_py313-0.9.1-alpha261015-macos-arm64.zip",
-      "archive_size": 140557183,
-      "archive_hash": "sha256:c0317f3cd3e7f67acd7c416b1c891b1ad12deadc83a577bf764bdff4a785820c"
+      "archive_url": "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.9.1-alpha2610151550/bonsai_py313-0.9.1-alpha261015-macos-arm64.zip",
+      "archive_size": 140557501,
+      "archive_hash": "sha256:e78e00575451ff50ac5c11146778d40b3094544749e217a4bab58378180b6007"
     },
     {
       "schema_version": "1.0.0",
@@ -158,6 +159,7 @@
         "SPDX:GPL-3.0-or-later"
       ],
       "blender_version_min": "4.2.0",
+      "blender_version_max": "5.1.0",
       "website": "https://bonsaibim.org/",
       "permissions": {
         "network": "Augin / Cove.Tool integration for VR and environmental analysis",
@@ -190,9 +192,9 @@
       "python_versions": [
         "3.11"
       ],
-      "archive_url": "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.9.1-alpha2610151546/bonsai_py311-0.9.1-alpha261015-macos-arm64.zip",
-      "archive_size": 140426507,
-      "archive_hash": "sha256:1ffb66d9e6b0d59b7e52a826c8681a4168cc190e524a959ec0443e109681cd1d"
+      "archive_url": "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.9.1-alpha2610151550/bonsai_py311-0.9.1-alpha261015-macos-arm64.zip",
+      "archive_size": 140426772,
+      "archive_hash": "sha256:997627ac61e166fb4fc699ece81668c61f62eb914cda0fa7909bcada03db56f4"
     },
     {
       "schema_version": "1.0.0",
@@ -238,9 +240,9 @@
       "python_versions": [
         "3.13"
       ],
-      "archive_url": "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.9.1-alpha2610151546/bonsai_py313-0.9.1-alpha261015-windows-x64.zip",
-      "archive_size": 144242209,
-      "archive_hash": "sha256:2127176bdf58486e196ab57c0615ed6731afa73a99518e2528b2decc3b4bdb3c"
+      "archive_url": "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.9.1-alpha2610151550/bonsai_py313-0.9.1-alpha261015-windows-x64.zip",
+      "archive_size": 144242434,
+      "archive_hash": "sha256:0369548d649a2bde5ac2b32d9686372e6e4a66ce3b85e300416b64aa12ef4c00"
     },
     {
       "schema_version": "1.0.0",
@@ -254,6 +256,7 @@
         "SPDX:GPL-3.0-or-later"
       ],
       "blender_version_min": "4.2.0",
+      "blender_version_max": "5.1.0",
       "website": "https://bonsaibim.org/",
       "permissions": {
         "network": "Augin / Cove.Tool integration for VR and environmental analysis",
@@ -286,9 +289,9 @@
       "python_versions": [
         "3.11"
       ],
-      "archive_url": "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.9.1-alpha2610151546/bonsai_py311-0.9.1-alpha261015-windows-x64.zip",
-      "archive_size": 143368817,
-      "archive_hash": "sha256:b7a15a6b850b269c8889ae77be661f4730b3d58ca2b40c2b0900c143c13e4e55"
+      "archive_url": "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.9.1-alpha2610151550/bonsai_py311-0.9.1-alpha261015-windows-x64.zip",
+      "archive_size": 143369046,
+      "archive_hash": "sha256:cf835b6d3fd73898c5592958985faa36ace54f052e5595838f2e25356e88d916"
     }
   ]
 }
