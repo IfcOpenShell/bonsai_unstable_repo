@@ -1,6 +1,7 @@
 {
   "version": "v1",
   "blocklist": [],
+  "assetlib_auth_method": "PER_LIBRARY",
   "data": [
     {
       "schema_version": "1.0.0",
@@ -46,9 +47,9 @@
       "python_versions": [
         "3.13"
       ],
-      "archive_url": "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.9.1-alpha2611121352/bonsai_py313-0.9.1-alpha261112-linux-x64.zip",
-      "archive_size": 171616738,
-      "archive_hash": "sha256:2cf0524b77c83da11245a6264fdaa91e027c06c0cb216528db02484cbc03c1e9"
+      "archive_url": "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.9.1-alpha2611121404/bonsai_py313-0.9.1-alpha261112-linux-x64.zip",
+      "archive_size": 171616806,
+      "archive_hash": "sha256:6aad818b82999c55ec5d03422f7a2375881619f99a8c0f36fcab9e38dfaee6ef"
     },
     {
       "schema_version": "1.0.0",
@@ -61,7 +62,7 @@
       "license": [
         "SPDX:GPL-3.0-or-later"
       ],
-      "blender_version_min": "4.2.0",
+      "blender_version_min": "4.5.0",
       "blender_version_max": "5.1.0",
       "website": "https://bonsaibim.org/",
       "permissions": {
@@ -95,9 +96,9 @@
       "python_versions": [
         "3.11"
       ],
-      "archive_url": "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.9.1-alpha2611121352/bonsai_py311-0.9.1-alpha261112-linux-x64.zip",
-      "archive_size": 170847830,
-      "archive_hash": "sha256:6b5e1879f2a51d0330f233b0e15ba17f4843620bd1f3f7165ab6c66460715cac"
+      "archive_url": "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.9.1-alpha2611121404/bonsai_py311-0.9.1-alpha261112-linux-x64.zip",
+      "archive_size": 170847944,
+      "archive_hash": "sha256:1d6f3be3f9cf984e2ad19ad1c60d559e7a46ac25e10483d56521a1be2e3c2f2d"
     },
     {
       "schema_version": "1.0.0",
@@ -143,9 +144,9 @@
       "python_versions": [
         "3.13"
       ],
-      "archive_url": "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.9.1-alpha2611121352/bonsai_py313-0.9.1-alpha261112-macos-arm64.zip",
-      "archive_size": 142134664,
-      "archive_hash": "sha256:d67156ddb088758b14446e3996858f386a10bebe67a845fadecac570c0b17669"
+      "archive_url": "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.9.1-alpha2611121404/bonsai_py313-0.9.1-alpha261112-macos-arm64.zip",
+      "archive_size": 142134770,
+      "archive_hash": "sha256:a5d2cd5368bf0d61464100f51a2aee8bb25e4aa2099d09a1a93242ee247b898b"
     },
     {
       "schema_version": "1.0.0",
@@ -158,7 +159,7 @@
       "license": [
         "SPDX:GPL-3.0-or-later"
       ],
-      "blender_version_min": "4.2.0",
+      "blender_version_min": "4.5.0",
       "blender_version_max": "5.1.0",
       "website": "https://bonsaibim.org/",
       "permissions": {
@@ -192,9 +193,9 @@
       "python_versions": [
         "3.11"
       ],
-      "archive_url": "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.9.1-alpha2611121352/bonsai_py311-0.9.1-alpha261112-macos-arm64.zip",
-      "archive_size": 142017267,
-      "archive_hash": "sha256:80ddcd9240973f185c3cf16b96bd730997f2866de6a6b766f0aaa0174c975b9e"
+      "archive_url": "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.9.1-alpha2611121404/bonsai_py311-0.9.1-alpha261112-macos-arm64.zip",
+      "archive_size": 142017359,
+      "archive_hash": "sha256:59bb66d77d6bed5905ee35a5df6d003db17293407c2378719c365cddf654c1ab"
     },
     {
       "schema_version": "1.0.0",
@@ -240,9 +241,9 @@
       "python_versions": [
         "3.13"
       ],
-      "archive_url": "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.9.1-alpha2611121352/bonsai_py313-0.9.1-alpha261112-windows-x64.zip",
-      "archive_size": 145713884,
-      "archive_hash": "sha256:ea01f8746bbd57778806ada69cc96a5800dc760e705ce4dbde2e3b46dcb9f8a5"
+      "archive_url": "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.9.1-alpha2611121404/bonsai_py313-0.9.1-alpha261112-windows-x64.zip",
+      "archive_size": 145713999,
+      "archive_hash": "sha256:f64bc35af23a9dbf3e93644fa0683a4e107fec7bd0656d89ef763eba27a7eff4"
     },
     {
       "schema_version": "1.0.0",
@@ -255,7 +256,7 @@
       "license": [
         "SPDX:GPL-3.0-or-later"
       ],
-      "blender_version_min": "4.2.0",
+      "blender_version_min": "4.5.0",
       "blender_version_max": "5.1.0",
       "website": "https://bonsaibim.org/",
       "permissions": {
@@ -289,9 +290,9 @@
       "python_versions": [
         "3.11"
       ],
-      "archive_url": "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.9.1-alpha2611121352/bonsai_py311-0.9.1-alpha261112-windows-x64.zip",
-      "archive_size": 143662351,
-      "archive_hash": "sha256:f69ea39919fc71fd20f9ff470de85e2f9d592946365d7ca8f7ce599df32fc8d4"
+      "archive_url": "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.9.1-alpha2611121404/bonsai_py311-0.9.1-alpha261112-windows-x64.zip",
+      "archive_size": 143662463,
+      "archive_hash": "sha256:967bc29a4a40eefc5e085b7b323ecd575c04024717155aa8fc444d7f83a47bb2"
     }
   ]
 }
