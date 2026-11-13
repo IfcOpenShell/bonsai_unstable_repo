@@ -47,9 +47,9 @@
       "python_versions": [
         "3.13"
       ],
-      "archive_url": "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.9.1-alpha2611131625/bonsai_py313-0.9.1-alpha261113-linux-x64.zip",
-      "archive_size": 171622966,
-      "archive_hash": "sha256:6e1bcdfa2c9f53bdd21602fd32f268fec1d9bd3f96bb120525563489d1fca143"
+      "archive_url": "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.9.1-alpha2611132209/bonsai_py313-0.9.1-alpha261113-linux-x64.zip",
+      "archive_size": 171623952,
+      "archive_hash": "sha256:d28d83ba587c19bdc047963adedac201a59fc2b431dcc9290df2e50d63bb4159"
     },
     {
       "schema_version": "1.0.0",
@@ -96,9 +96,9 @@
       "python_versions": [
         "3.11"
       ],
-      "archive_url": "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.9.1-alpha2611131625/bonsai_py311-0.9.1-alpha261113-linux-x64.zip",
-      "archive_size": 170853928,
-      "archive_hash": "sha256:eafaf83f62b198054d67cf0e8dfa8fa879be5b59bb958d8edd148bf3a7ddcaad"
+      "archive_url": "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.9.1-alpha2611132209/bonsai_py311-0.9.1-alpha261113-linux-x64.zip",
+      "archive_size": 170854965,
+      "archive_hash": "sha256:a088a1257c823bff611c64ed626cbef5409735e2303e02fda7eb8c6799409408"
     },
     {
       "schema_version": "1.0.0",
@@ -145,9 +145,9 @@
       "python_versions": [
         "3.11"
       ],
-      "archive_url": "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.9.1-alpha2611131625/bonsai_py311-0.9.1-alpha261113-macos-arm64.zip",
-      "archive_size": 142023391,
-      "archive_hash": "sha256:618cc05027eb259ed89a8498a86f81adb7e9fae695e6d6781ea28ce3f5ee6629"
+      "archive_url": "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.9.1-alpha2611132209/bonsai_py311-0.9.1-alpha261113-macos-arm64.zip",
+      "archive_size": 142024391,
+      "archive_hash": "sha256:20bfc4d322d4bfca78789f08458ab582131cf68488828381f2aaa9e9457f9309"
     },
     {
       "schema_version": "1.0.0",
@@ -193,9 +193,9 @@
       "python_versions": [
         "3.13"
       ],
-      "archive_url": "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.9.1-alpha2611131625/bonsai_py313-0.9.1-alpha261113-macos-arm64.zip",
-      "archive_size": 142140823,
-      "archive_hash": "sha256:1e92b603023c51fc9f65f1b5b61a3c6714ab8927657f45ae1301778ff6d8de13"
+      "archive_url": "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.9.1-alpha2611132209/bonsai_py313-0.9.1-alpha261113-macos-arm64.zip",
+      "archive_size": 142141877,
+      "archive_hash": "sha256:ebdb9ba57064ff5b9f17b461ee3b7024d2d62857e5f3e024ab3202835ecea8d1"
     },
     {
       "schema_version": "1.0.0",
@@ -242,9 +242,9 @@
       "python_versions": [
         "3.11"
       ],
-      "archive_url": "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.9.1-alpha2611131625/bonsai_py311-0.9.1-alpha261113-windows-x64.zip",
-      "archive_size": 143668503,
-      "archive_hash": "sha256:4669558b577678a06d6b0e8ac8f81cd137be4f613d570e6dd149edadd036fb50"
+      "archive_url": "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.9.1-alpha2611132209/bonsai_py311-0.9.1-alpha261113-windows-x64.zip",
+      "archive_size": 143669554,
+      "archive_hash": "sha256:f52c15348bc5f7910eea2f188bd65d7490167988587b12e534437298046abbbe"
     },
     {
       "schema_version": "1.0.0",
@@ -290,9 +290,9 @@
       "python_versions": [
         "3.13"
       ],
-      "archive_url": "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.9.1-alpha2611131625/bonsai_py313-0.9.1-alpha261113-windows-x64.zip",
-      "archive_size": 145720015,
-      "archive_hash": "sha256:280197fa2a265a46e6e5627b0953ac879b944257ee53f0ff4465d230b84f861a"
+      "archive_url": "https://github.com/IfcOpenShell/IfcOpenShell/releases/download/bonsai-0.9.1-alpha2611132209/bonsai_py313-0.9.1-alpha261113-windows-x64.zip",
+      "archive_size": 145721050,
+      "archive_hash": "sha256:d1c6649bdf6b10c36faaccaddd1e7ae6c6b1dc40d5f9c8ed939ad336e17c080e"
     }
   ]
 }
